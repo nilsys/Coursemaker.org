@@ -1,10 +1,25 @@
+@import 'https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css';
+
 @tailwind base;
 
-a {
-  @apply text-primary;
+/* a:not(.button):not(.footer-a) { */
+/* 	@apply text-blue-500 transition duration-300 ease-in-out; */
+/* } */
+
+/* a:not(.button):not(.footer-a):hover { */
+/* 	@apply text-blue-700; */
+/* } */
+
+.button {
+	@apply px-5 py-3 bg-blue-500 text-white border border-blue-500 rounded transition duration-300 ease-in-out inline-block;
 }
-a:hover {
-  @apply text-primary-darker;
+
+.button:hover {
+	@apply bg-blue-700 border-blue-700;
+}
+
+footer .footer-title {
+	@apply text-lg font-semibold;
 }
 
 @tailwind components;

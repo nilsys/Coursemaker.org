@@ -1,3 +1,9 @@
+---
+slug: "/yomama"
+title: "Privacy Policy"
+date: "20-05-2020"
+---
+
 # Privacy Policy
 
 ##### This privacy policy discloses how we gather, use and protect your data. Below you can find the legal text.

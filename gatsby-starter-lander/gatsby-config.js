@@ -24,13 +24,6 @@ module.exports = {
         tailwindConfig: `tailwind.config.js`
       }
     },
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `TODO`,
-    //     head: true,
-    //   },
-    // },
     {
       resolve: `gatsby-theme-blog`,
       options: {
