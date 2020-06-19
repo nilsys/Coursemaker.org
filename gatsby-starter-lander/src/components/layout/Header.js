@@ -1,38 +1,38 @@
-import React from 'react';
-import AnchorLink from 'react-anchor-link-smooth-scroll';
+import { Link } from "gatsby";
+import React, { useState } from 'react';
 import LogoIcon from '../../svg/LogoIcon';
-import Button from '../Button';
 
-const Header = () => (
-  <header className="sticky top-0 bg-white shadow">
-    <div className="container flex flex-col sm:flex-row justify-between items-center mx-auto py-4 px-8">
-      <div className="flex items-center text-2xl">
-        <div className="w-12 mr-3">
-          <LogoIcon />
-        </div>
-        Coming Soon
-      </div>
-    {/*
-      <div className="flex mt-4 sm:mt-0">
-        <AnchorLink className="px-4" href="#features">
-          Features
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#services">
-          Services
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#stats">
-          Stats
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#testimonials">
-          Testimonials
-        </AnchorLink>
-      </div>
-      */}
-      <div className="hidden md:block">
-        <a href="/blog"><Button className="text-sm">Blog</Button></a>
-      </div>
-    </div>
-  </header>
-);
+function Header() {
+
+	const [isExpanded, toggleExpansion] = useState(false)
+
+	return (
+
+		<header className={`${ isExpanded ? `shadow` : `` } bg-white sticky mb-10 lg:fixed top-0 left-0 w-full lg:py-6 transition-shadow duration-300 ease-in-out z-20`}>
+			<div className="container flex flex-wrap justify-between items-center">
+				<Link to="/" className="logo flex items-center text-2xl">
+					<div className="w-12 mr-3">
+						<LogoIcon />
+					</div>
+					<span>CourseMaker</span>
+				</Link>
+
+				<div className="block lg:hidden py-8 lg:py-0">
+					<button onClick={() => toggleExpansion(!isExpanded)} className="flex items-center border-blue-500">
+						<svg className="fill-current h-5 w-5" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+					</button>
+				</div>
+
+				<div className={`${ isExpanded ? `block` : `hidden` } lg:flex lg:space-x-8 lg:w-auto lg:space-y-0 lg:py-0 lg:border-t-0 w-full space-y-3 py-8 border-t items-center`}>
+					<li className="list-none">
+						<Link to="/blog">Blog</Link>
+					</li>
+				</div>
+
+			</div>
+		</header>
+
+	)
+}
 
 export default Header;

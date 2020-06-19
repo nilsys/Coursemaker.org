@@ -7,7 +7,11 @@ module.exports = {
           default: 'hsl(207, 73%, 57%)',
           darker: 'hsl(207, 73%, 44%)'
         }
-      }
+			},
+			container: {
+				center: true,
+				padding: '2rem'
+			}
     }
   },
   variants: {},

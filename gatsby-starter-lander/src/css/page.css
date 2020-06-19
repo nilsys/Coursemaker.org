@@ -1,0 +1,114 @@
+header a:not(.button),
+footer a:not(.footer-a) {
+	color: #4299e1;
+	transition: .3s all ease;
+}
+
+header a:not(.button):hover,
+footer a:not(.footer-a):hover {
+	color: #2b6cb0;
+}
+
+
+header.is-alt .container {
+	position: relative;
+}
+
+header.is-alt .container:before {
+	content: '';
+	position: absolute;
+	left: 2rem;
+	right: 2rem;
+	bottom: 0;
+	height: 1px;
+	background: #eee;
+	transition: .3s all ease;
+}
+
+header.is-alt.shadow .container:before {
+	opacity: 0;
+}
+
+.post-list :first-child {
+	padding-top: 0;
+}
+
+.post-list #privacy {
+	display: none;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+.article.article * {
+	font-size: unset;
+	margin-bottom: unset;
+	line-height: unset;
+	font-weight: unset;
+}
+
+article > h1 > a,
+article > h2 > a,
+article > h3 > a,
+article > h4 > a,
+article > h5 > a,
+article > h6 > a
+{
+	display: none;
+}
+
+.article.article.article h1 {
+	font-size: 38px;
+	font-weight: 800;
+}
+
+.article.article.article h2 {
+	font-size: 26px;
+	font-weight: 800;
+}
+
+.article.article.article h3 {
+	font-size: 22px;
+	font-weight: 800;
+}
+
+.article.article.article h4 {
+	font-weight: 800;
+	margin-top: 50px !important;
+}
+
+.article.article.article h5 {
+	font-weight: 600;
+}
+
+.article.article.article code {
+	padding: 30px;
+	background: black;
+	color: #fff;
+	display: block;
+	overflow: scroll;
+}
+
+.popup-wrapper {
+	opacity: 0;
+	transition: .3s all ease;
+	pointer-events: none;
+}
+
+.popup-wrapper .popup {
+	opacity: 0;
+	transform: translateY is-active(30px);
+	transition: .3s all ease;
+}
+
+.popup-wrapper.is-active {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+.popup-wrapper.is-active .popup {
+	opacity: 1;
+	transform: none;
+	transition-delay: .3s;
+}
