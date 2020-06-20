@@ -15,6 +15,9 @@ concita arbor, que parens et *novem*, potentia. Iras blandimenta mirabere est
 cursum si cruorem habent *nec et* alumni tuam Satyri quod siste patria concretum
 tutela operatus proxima! Quae omnipotens tempora usque, Iovis possunt!
 
+![alt text](../assets/nyan_cat.jpg "Logo Title Text 1")
+
+
     aspEps = pci.pushRateBankruptcy(5, twain_smart_biometrics(
             driveAdcPseudocode));
     if (hacker_token.page(template_blu_sms + ccHostHeat, server_server)) {

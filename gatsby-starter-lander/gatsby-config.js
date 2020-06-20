@@ -27,12 +27,35 @@ module.exports = {
     {
       resolve: `gatsby-theme-blog`,
       options: {
-        // basePath defaults to `/`
         basePath: `/blog`,
         author: `CourseMaker`,
         description: `Helping you make awesome online courses`
       }
     },
     `gatsby-plugin-react-helmet`,
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `images`,
+				path: `${__dirname}/content/assets`,
+			},
+		},
+		{
+    resolve: `gatsby-transformer-remark`,
+			options: {
+				plugins: [
+					`gatsby-remark-relative-images`,
+					{
+						resolve: `gatsby-remark-images`,
+						options: {
+							maxWidth: 800,
+							linkImagesToOriginal: false,
+							sizeByPixelDensity: true,
+							showCaptions: true
+						}
+					},
+				]
+			}
+		},
   ]
 };
