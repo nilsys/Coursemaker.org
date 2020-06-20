@@ -45,7 +45,7 @@ footer a:hover {
 	font-size: unset;
 	margin-bottom: unset;
 	line-height: unset;
-	font-weight: unset;
+	/*font-weight: unset;*/
 }
 
 article > h1 > a,

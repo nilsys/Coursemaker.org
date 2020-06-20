@@ -22,6 +22,18 @@ footer .footer-title {
 	@apply text-lg font-semibold;
 }
 
+article ul, article ol {
+	list-style-type: circle;
+}
+
+header li, footer li {
+	list-style-type: none;
+}
+
+b, strong {
+	font-weight: bolder;
+}
+
 @tailwind components;
 
 @tailwind utilities;
