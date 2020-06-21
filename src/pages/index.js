@@ -1,6 +1,6 @@
 import React from 'react';
-import Button from '../components/Button';
-import Layout from '../components/layout/Layout';
+import Button from '../components/button';
+import Layout from '../components/layout/layout';
 import HeroImage from '../svg/HeroImage';
 
 export default () => (

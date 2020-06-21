@@ -30,3 +30,7 @@ Note that this uses yarn and (2) [gatsby-theme-blog](https://github.com/gatsbyjs
 `cd gatsby-starter-lander`
 
 Run `gatsby develop` in the terminal to start the dev site.
+
+
+## Prod deploys
+Beware uppercase! https://github.com/gatsbyjs/gatsby/issues/8205
