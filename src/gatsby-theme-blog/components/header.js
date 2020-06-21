@@ -2,7 +2,7 @@ import { Link } from "gatsby";
 import React, { useState } from 'react';
 import LogoIcon from '../../svg/LogoIcon';
 
-import styles from "../../css/page.css"
+import styles from '../../css/page.css'
 
 function Header() {
 
