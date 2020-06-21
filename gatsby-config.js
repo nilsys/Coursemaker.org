@@ -32,6 +32,13 @@ module.exports = {
         description: `Helping you make awesome online courses`
       }
     },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        // TODO sort out dev
+        bucketName: 's3-coursemaker.org'
+      }
+    },
     `gatsby-plugin-react-helmet`,
 		{
 			resolve: `gatsby-source-filesystem`,
