@@ -30,4 +30,4 @@ jobs:
       - name: Deploy
         uses: jonelantha/gatsby-s3-action@v1
         with:
-          dest-s3-bucket: s3-dev-coursemaker.io
+          dest-s3-bucket: coursemaker.io

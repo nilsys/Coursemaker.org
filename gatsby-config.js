@@ -44,7 +44,7 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
         // TODO sort out dev
-        bucketName: 's3-coursemaker.org'
+        bucketName: `coursemaker.org`,
       }
     },
     `gatsby-plugin-react-helmet`,
