@@ -410,6 +410,9 @@ the side of caution.
 
 ### Part 6: Selling on a marketplace vs. hosting your own site
 ![Online Course Selling](../assets/selling_course.jpg "Where to sell your online course")
+
+[We have a dedicated post on this topic which provides more detail](/blog/where-to-host-online-course-marketplace-self-hosting). In this section you can find
+a shorter summary.
  
 Broadly speaking, you have two choices when it comes to where you sell your online course:
 
