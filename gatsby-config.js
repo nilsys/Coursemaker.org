@@ -89,6 +89,12 @@ module.exports = {
         sampleRate: 5,
         siteSpeedSampleRate: 10
       }
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        icon: `src/images/updated_favicon.png`
+      }
     }
   ]
 };
