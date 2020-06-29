@@ -1,9 +1,10 @@
 ---
-title: Where to Host Your Online Course - Marketplace vs. Self-Hosting
+title: Online Marketplace vs. Self Hosting - Where to Sell Your Course
 date: 2020-06-27
 author: CourseMaker
-slug: where-to-host-online-course-marketplace-self-hosting
-keywords: ["online course hosting", "marketplace"]
+slug: online-marketplace-vs-self-hosting-courses
+featuredImage: 
+    src: "../assets/choosing_platform/confused_guy.jpg"
 excerpt: Choosing the right platform for your online course is an important decision.
 ---
 
@@ -105,7 +106,7 @@ of a potential student - are you going to purchase the course on the topic you a
 existing students and a 4.7/5 rating, or the new course on that topic with zero students and no ratings? On the other
 hand, if the existing courses are either poorly rated or out of date, then this can be a great opportunity to swoop
 in and offer an alternative. In either case, considering your course niche and customer validation are very important
-preparatory steps, which we discuss in this [comprehensive guide to creating and selling your online course](/blog/ultimate-guide-to-creating-selling-online-course).
+preparatory steps, which we discuss in this [comprehensive guide to creating and selling your online course](/blog/create-sell-online-courses-ultimate-guide).
 
 ##### Ratings Death Spiral
 With course marketplaces you are very beholden to student ratings. And students are not afraid to lash out and give

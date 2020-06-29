@@ -2,8 +2,9 @@
 title: The Ultimate Guide to Creating and Selling Your Online Course in 2020
 date: 2020-06-20
 author: CourseMaker
-slug: ultimate-guide-to-creating-selling-online-course
-keywords: ["online course guide"]
+slug: create-sell-online-courses-ultimate-guide
+featuredImage:
+    src: "../assets/choosing_platform/confused_guy.jpg"
 excerpt: Welcome to the only online course creation guide that matters.
 ---
 
@@ -411,7 +412,7 @@ the side of caution.
 ### Part 6: Selling on a marketplace vs. hosting your own site
 ![Online Course Selling](../assets/selling_course.jpg "Where to sell your online course")
 
-[We have a dedicated post on this topic which provides more detail](/blog/where-to-host-online-course-marketplace-self-hosting). In this section you can find
+[We have a dedicated post on this topic which provides more detail](/blog/online-marketplace-vs-self-hosting-courses). In this section you can find
 a shorter summary.
  
 Broadly speaking, you have two choices when it comes to where you sell your online course:
