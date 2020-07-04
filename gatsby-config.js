@@ -32,6 +32,7 @@ module.exports = {
         tailwindConfig: `tailwind.config.js`
       }
     },
+    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-theme-blog`,
       options: {
