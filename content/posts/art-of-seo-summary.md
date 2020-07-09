@@ -456,10 +456,177 @@ Sitemaps file and robots.txt file verification
 Use the Google Search Console “Robots.txt fetch” to check your robots.txt file. Also verify that your Sitemap file 
 is correctly identifying all of your site pages.
 
+URL redirect checks
+Check all redirects to make sure the right redirect is in place, and it is pointing to the correct destination URL.
+This also includes checking that the canonical redirect is properly implemented. Use a server header checker such 
+as Redirect Check or RedirectCh- ecker.org, or when using Firefox, install the browser extension Redirect Check 
+Client.
+
+Internal linking checks
+Look for pages that have excessive links. As discussed earlier, make sure the site makes intelligent use of 
+anchor text in its internal links. This is a user-friendly opportunity to inform users and search engines what 
+the various pages of your site are about. Don’t abuse it, though. For example, if you have a link to your home 
+page in your global navigation (which you should), call it “Home” instead of picking your juiciest keyword. 
+The search engines can view that particular practice as spammy, and it does not engender a good user experience.
+
+You should link out to quality websites. It is good for users, and it is likely to bring you ranking benefits 
+(through building trust and relevance based on what sites you link to).
+
+Avoidance of unnecessary subdomains
+The engines may not apply the entirety of a domain’s trust and link authority weight to subdomains. This is 
+largely due to the fact that a subdomain could be under the control of a different party, and therefore in the 
+search engine’s eyes it needs to be separately evaluated.
+
+External linking
+Check the inbound links to the site by performing a backlink analysis. Use a backlinking tool such as 
+LinkResearchTools, Open Site Explorer, Majestic SEO, or Ahrefs Site Explorer & Backlink Checker to collect data 
+about your links. Look for bad patterns in the anchor text, such as 87% of the links having the critical keyword
+for the site in them. Unless the critical keyword happens to also be the name of the company, this is a sure 
+sign of trouble. This type of distribution is quite likely the result of link purchas- ing or other manipulative
+behavior, and will (if it hasn’t already) likely earn you a manual Google penalty or trigger Google’s Penguin
+algorithm to lower your rankings.
+
+On the flip side, make sure the site’s critical topics and keywords are showing up sometimes. A lack of the 
+topically related anchor text is not entirely good, either. You need to find a balance, and err on the side of 
+caution, intuitiveness, and usability.
+
+Also check that there are links to pages other than the home page. These are often called deep links
+https://bloggingx.com/deep-linking-for-seo/
+
+Image alt attributes
+Do all the images have relevant, keyword-rich alt attribute text and filenames?
+
+
+The Importance of Keyword Reviews
+
+Step 1: Keyword research
+It is vital to examine your topic and keyword strategy as early as possible in any SEO effort. 
+You can read about this in more detail in Chapter 5.
+
+Step 2: Site architecture
+Coming up with architecture for a website can be very tricky. At this stage, you need to look at your keyword 
+research and the existing site (to make as few changes as pos- sible). You can think of this in terms of your 
+site map.
+
+You need a hierarchy that leads site visitors to your high-value pages (i.e., the pages where conversions are 
+most likely to occur). Obviously, a good site hierarchy allows the parents of your “money pages” to rank for 
+relevant keywords, which are likely to be shorter tail.
+
+Step 3: Keyword mapping
+Once you have a list of keywords and a good sense of the overall architecture, start mapping the major 
+relevant keywords to URLs
+
+Step 4: Site review
+Once you are armed with your keyword mapping, the rest of the site review will flow more easily
+
+pp.165-172 [key pages]
+
+
+As mentioned earlier, other valuable sources of data include Google Search Console and Bing Webmaster Tools. We cover these extensively in “Using Search Engine–Sup- plied SEO Tools” on page 841.
+From a planning perspective, you will want to get these tools in place as soon as possi- ble
+p.178
+
+
+Understanding the competition should be a key component of planning your SEO strategy. The first step is to 
+understand who your competitors in the search results really are. It can often be small players who give you
+a run for your money.
+p.179
+How do you know whether a top-ranking site is playing by the rules? Look for dubi- ous links to the site using a 
+backlink analysis tool such as Majestic SEO or Open Site Explorer (discussed earlier in this chapter)
+
+
+Let’s assume your investigation has led you to identify several competitors who are gaining excellent search 
+placement using legitimate, intelligent tactics. Now it is time to identify their strategy and tactics:
+What keywords are they targeting?
+You can determine this by looking at the page titles (up in the bar above the address bar at the top of your 
+web browser, which also appears in the search results listings) of each competitor’s home page and product 
+category pages. You can also use various online tools to see what keywords they may be targeting with PPC 
+advertising; while it’s not always an indication that they are investing in SEO, you can still get a solid 
+grasp on their overall keyword strategy.
+Who’s linking to their home page, or to their top-selling product pages and category pages?
+A link popularity checker can be quite helpful in analyzing this.
+If it is a database-driven site, what technology workarounds are they using to get search engine spiders 
+such as Googlebot to cope with the site being dynamic?
+Nearly all the technology workarounds are tied to the ecommerce platforms the competitors are running. 
+You can check to see whether they are using the same server software as you by using the “What’s that 
+site running?” tool. Figure 4-9 shows a screenshot of a segment of the results for HSN.com.
+p.181
+
+
+
+
+Keyword Research
+p.193
+**Detailed Notes**
+
+Keyword research tools provide valuable insight into the thinking of your potential customers. When users go 
+to search engines and type out their search query, they may use language that is entirely different from what 
+you expect.
+
+As we laid out in Chapter 1, searchers often go through a progression where they try certain searches, check out
+some sites, refine their searches, and repeat this process until they finally find what they want. 
+
+>Taking the time to understand typical search sequences is one aspect that impacts your keyword strategy.
+
+p.194
+
+It is wonderful to deal with keywords that have 5,000 searches per day, or even 500 searches per day, but in 
+reality these “popular” search terms may actually comprise less than 30% of the overall searches performed on 
+the Web. The remaining 70% lie in what’s commonly called the “long tail” of search
+p.194
+
+What this means from an SEO perspective is that the exact query a user may be searching for is less important 
+than the intent behind it. While keyword research is still crucial, creating pages highly optimized to a specific
+keyword is less important than creating extremely high-quality, unique content that answers the need or question 
+behind the keyword query.
+
+One easy way to begin this process is to gather your team in a conference room and then follow these steps:
+1. Produce a list of key one- to three-word phrases that describe your products/services.
+2. Spend some time coming up with synonyms that your potential customers might use for those products and services. Use a thesaurus to help you with this process.
+3. Create a taxonomy of all the areas of focus in your industry. It can be helpful to imagine creating a directory for all the people, projects, ideas, and companies connected to your site. You can also look at sites that are leaders in the industry and study their site hierarchy as a way to start your thinking about a taxonomy.
+4. Broaden your list by thinking of higher-level terms and topics of which your prod- ucts or services are a subset.
+5. Review your existing site and extract what appear to be key phrases from your site.
+6. Review industry association and/or media sites to see what phrases they use to discuss your topic area.
+7. List all of your various brand terms.
+8. List all of your products. If your site has a massive number of products, consider stepping back a level (or two) and listing the categories and subcategories.
+9. Have your team imagine that they are potential customers, and ask them what they would type into a search engine if they were looking for something similar to your product or service.
+10. Supplement this by asking some people outside your business what they would search for, preferably people who are not directly associated with the company. Consider also the value of performing actual market research with a test group of consumers in your demographic, and ask them the same question.
+11. Use various tools (such as Google Search Console) to see what terms people are already using to come to your site, or what terms they are using within your site search tool if you have one.
+p.200
+
+1. Review your competitors’ websites and see what keywords and phrases they use for their products and services that compete with yours. Look also for unique var- iations and synonyms they incorporate into their language, and see if these indi- cate shifting trends in vernacular in your industry.
+2. Record what nonbrand terms they use for their business.
+3. Read any articles they have written that are published on sites other than their own.
+4. Observe what the media may have had to say about them.
+p.201
+
+If you are new to keyword research, consider starting with the Google AdWords Key- word Planner (which is free 
+with an AdWords account) and at least one of the paid tools, such as KeywordDiscovery.com. This will give you a 
+rich, varied data set with which to begin your keyword research. Over time you can experiment with the other 
+tools and adjust your process as you find tools that you prefer for one task or another.
+p.202
+
+Related terms
+Several of the engines offer “related” terms, including Google, Yahoo!, Bing, Ask, and Yippy (which shows 
+related terms in clusters, as shown in Figure 5-2). This data can be invaluable if you’re looking to find 
+related terms that may not have come up through competitive analysis or brainstorming.
+p.203
+
+
+The Keyword Planner offers some useful information about your keyword campaigns, such as suggestions for 
+similar keywords, an estimate of the keyword’s popularity, ad costs and positions, general search volume 
+trend information, and keyword campaign suggestions for your site or your competi- tor’s site. The tool is 
+great for compiling a lot of general information about a keyword.
+p.212
+
+Google Trends is a great, easy tool for comparing keywords and identifying which term is more popular than 
+the other; in addition, you can examine this data over many years with seasonality factored in
+p.214
 ---
 Open questions:
 
 - Better to focus on a specific post for link building or just the root domain?
+- Can I cross-post blog content on reddit/IH without a duplicate penalty? 
 
 ---
 
