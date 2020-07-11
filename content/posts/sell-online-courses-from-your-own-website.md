@@ -1,6 +1,6 @@
 ---
 title: How to Sell Online Courses From Your Own Website
-date: 2020-07-09
+date: 2020-07-11
 author: CourseMaker
 slug: sell-online-course-your-own-website
 excerpt: What you should know when it comes to online course platforms.
@@ -9,11 +9,11 @@ excerpt: What you should know when it comes to online course platforms.
 ![online course options with your own website](../assets/own_site_post/evaluation_matrix3.png "evaluating your options")
 
 *note: If you are looking for a guide on the complete process of creating an online course [checkout our comprehensive
-guide](/create-sell-online-courses-ultimate-guide) (20 min read)*
+guide](/blog/create-sell-online-courses-ultimate-guide) (20 min read)*
 
 **You've decided to sell your online course through your own website**. This can be an excellent
 way to have complete control over your course business - you'll own your content, your student email list, and be
-able to choose your business model and pricing, unlike if you [go on a marketplace like Udemy](/online-marketplace-vs-self-hosting-courses).
+able to choose your business model and pricing, unlike if you [go on a marketplace like Udemy](/blog/online-marketplace-vs-self-hosting-courses).
 
 The question now becomes: what are the options for selling
 through your own website? There are a variety of choices out there, and in this guide I will walk you through
