@@ -19,6 +19,9 @@ export default () => (
 						reasonable price.
 					</p>
 
+					<p className="md:text-2xl mx-auto lg:mx-0 md:w-3/4 mt-6 font-light leading-relaxed">Coming Soon...subscribe here
+					to be informed about the launch</p>
+
 					<form className="form-wrapper mt-8 md:mt-10 validate" action="https://coursemaker.us10.list-manage.com/subscribe/post?u=b66f35b93048b878a28ce7c92&amp;id=6169d6d8e1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
 						<input className="w-full sm:w-auto px-5 py-3 border border-gray-400 rounded sm:rounded-r-none" type="email" placeholder="Email Address" name="EMAIL" id="mce-EMAIL" required />
 						<div className="absolute invisible" aria-hidden="true">
