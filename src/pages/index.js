@@ -14,10 +14,10 @@ export default () => (
 						CourseMaker
 					</h1>
 
-					<p className="md:text-2xl mx-auto lg:mx-0 md:w-3/4 mt-6 font-light leading-relaxed">
+					<h2 className="md:text-2xl mx-auto lg:mx-0 md:w-3/4 mt-6 font-light leading-relaxed">
 						An online course creation platform offering authors an incredible experience for a
 						reasonable price.
-					</p>
+					</h2>
 
 					<p className="md:text-2xl mx-auto lg:mx-0 md:w-3/4 mt-6 font-light leading-relaxed">Coming Soon...subscribe here
 					to be informed about the launch</p>
