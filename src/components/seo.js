@@ -1,56 +1,96 @@
 import React from 'react';
+import moment from 'moment';
 import { Helmet } from 'react-helmet';
-import { useStaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql } from 'gatsby';
+import PropTypes from 'prop-types';
+import SchemaOrg from './SchemaOrg';
 
-const SEO = ({ post }) => {
-  const data = useStaticQuery(graphql`
-    {
-      site {
-        siteMetadata {
-          title
-          description
-          baseUrl
+const SEO = ({ postData, postImage, isBlogPost, pageTitle }) => (
+  <StaticQuery
+    query={graphql`
+      {
+        site {
+          siteMetadata {
+            title
+            description
+            siteUrl
+            image
+            author
+            organization {
+              name
+              url
+              logo
+            }
+          }
         }
-      }
-    }
-  `);
+       }
+    `}
+    render={( { site: { siteMetadata: seo }, blogPost} ) => {
+      const title = postData.title || pageTitle || seo.title;
+      const description = postData.excerpt || seo.description;
+      const image = postImage ? `${seo.siteUrl}${postImage}` : seo.image;
+      const url = postData.slug
+        ? `${seo.siteUrl}/${postData.slug}`
+        : seo.siteUrl;
+      // TODO: enable real date modified
+      const datePublished = isBlogPost ? moment(postData.date).format("YYYY-MM-DD") : false;
 
-  const defaults = data.site.siteMetadata;
+      return (
+        <React.Fragment>
+          <Helmet>
+            {/* General tags */}
+            <title>{title}</title>
+            <meta name="description" content={description} />
+            //<meta name="image" content={image} />
 
-  if (defaults.baseUrl === '' && typeof window !== 'undefined') {
-    defaults.baseUrl = window.location.origin;
-  }
+            {/* OpenGraph tags */}
+            <meta property="og:url" content={url} />
+            {isBlogPost ? <meta property="og:type" content="article" /> : null}
+            <meta property="og:title" content={title} />
+            <meta property="og:description" content={description} />
+            //<meta property="og:image" content={image} />
 
-  if (defaults.baseUrl === '') {
-    console.error('Please set a baseUrl in your site metadata!');
-    return null;
-  }
+            {/* Twitter Card tags */}
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:title" content={title} />
+            <meta name="twitter:description" content={description} />
+           // <meta name="twitter:image" content={image} />
+          </Helmet>
+          <SchemaOrg
+            isBlogPost={isBlogPost}
+            url={url}
+            title={title}
+            //image={image}
+            description={description}
+            datePublished={datePublished}
+            dateModified={datePublished}
+            siteUrl={seo.siteUrl}
+            author={seo.author}
+            organization={seo.organization}
+            defaultTitle={seo.title}
+          />
+        </React.Fragment>
+      );
+    }}
+  />
+);
 
-  const title = post.title || defaults.title;
-  const description = post.description || defaults.description;
-  const url = new URL(post.path || '', defaults.baseUrl);
-  const image = post.image ? new URL(post.image, defaults.baseUrl) : false;
+SEO.propTypes = {
+  isBlogPost: PropTypes.bool,
+  postData: PropTypes.shape({
+    childMarkdownRemark: PropTypes.shape({
+      frontmatter: PropTypes.any,
+      excerpt: PropTypes.any,
+      dateModified: PropTypes.any
+    }),
+  }),
+  postImage: PropTypes.string,
+};
 
-  return (
-    <Helmet>
-      <title>{title}</title>
-      <link rel="canonical" href={url} />
-      <meta name="description" content={description} />
-      {image && <meta name="image" content={image} />}
-
-      <meta property="og:url" content={url} />
-      <meta property="og:type" content="article" />
-      <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
-      {image && <meta property="og:image" content={image} />}
-
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:creator" content={post.author.twitter} />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={description} />
-      {image && <meta name="twitter:image" content={image} />}
-    </Helmet>
-  );
+SEO.defaultProps = {
+  isBlogPost: false,
+  postData: { childMarkdownRemark: {} },
+  postImage: null,
 };
 
 export default SEO;

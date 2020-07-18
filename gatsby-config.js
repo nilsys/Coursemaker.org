@@ -1,11 +1,18 @@
 module.exports = {
   siteMetadata: {
     // Used for the site title and SEO
-    title: `CourseMaker`,
-    author: `Chris Samiullah`,
+    title: `CourseMaker | Make Online Courses`,
     siteUrl: `https://coursemaker.org`,
     baseUrl: `https://coursemaker.org`,
-    description: `CourseMaker description`,
+    description: `Easy, elegant, affordable. We take care of all the hassle so you can focus on 
+     running your online course business`,
+    image: `src/images/chris_portrait.jpg`,
+    author: `Chris Samiullah`,
+    organization: {
+      name: 'CourseMaker',
+      url: 'https://coursemaker.org',
+      logo: 'https://lengstorf.com/android-chrome-512x512.png',
+    },
     social: [
       {
         name: `twitter`,
@@ -13,7 +20,7 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/ansonlowzf`,
+        url: `https://github.com/coursemaker`,
       },
     ],
   },
