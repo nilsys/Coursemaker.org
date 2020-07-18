@@ -25,7 +25,7 @@ const Footer = () => (
 					<h2 className="footer-title mb-2 md:mb-4">Social Media</h2>
 					<ul className="leading-loose">
 						<li>
-							<a href="https://www.youtube.com/watch?v=EWMrmD8ei_8">Youtube</a>
+							<a href="https://www.youtube.com">Youtube</a>
 						</li>
 					</ul>
 				</div>
