@@ -1,13 +1,13 @@
-header a:not(.button),
-footer a:not(.footer-a) {
-	color: #4299e1;
-	transition: .3s all ease;
-}
+/* header a:not(.button), */
+/* footer a:not(.footer-a) { */
+/* 	color: #4299e1; */
+/* 	transition: .3s all ease; */
+/* } */
 
-header a:not(.button):hover,
-footer a:not(.footer-a):hover {
-	color: #2b6cb0;
-}
+/* header a:not(.button):hover, */
+/* footer a:not(.footer-a):hover { */
+/* 	color: #2b6cb0; */
+/* } */
 
 
 header.is-alt .container {
