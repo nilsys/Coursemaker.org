@@ -22,9 +22,9 @@ const Post = ({
         frontmatter={frontmatter}
         isBlogPost
       />
-    <div className="post-header mb-16">
-      <h1 className="text-4xl font-bold mb-3">{post.title}</h1>
-      <p className="text-gray-600 -mt-2">{post.date}</p>
+    <div className="mb-16 post-header">
+      <h1 className="mb-3 text-4xl font-bold">{post.title}</h1>
+      <p className="-mt-2 text-gray-600">{post.date}</p>
     </div>
 
 		<article className="article space-y-8">

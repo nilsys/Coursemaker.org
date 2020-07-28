@@ -2,31 +2,15 @@ import { Link } from "gatsby";
 import React from 'react';
 
 const Footer = () => (
-  <footer className="bg-blue-500 text-white pb-12 mt-20 md:mt-0 md:pb-24">
-		<div className="container pt-12 md:pt-24">
-
-			<div className="md:flex md:-mx-3 space-y-6 md:space-y-0">
-				<div className="flex-1 md:px-3">
-					<h2 className="footer-title mb-2 md:mb-4">Disclaimers</h2>
-					<p className="leading-relaxed">All opinions are those of CourseMaker.<br/>
-						&copy; 2020 CourseMaker.
-					</p>
-				</div>
-				<div className="flex-1 md:px-3">
-					<h2 className="footer-title mb-2 md:mb-4">Important Links</h2>
-					<ul className="leading-loose">
-						<li>
-							<Link className="footer-a" to="/privacy-policy">Privacy Policy</Link>
-						</li>
-					</ul>
-				</div>
-				<div className="flex-1 md:px-3">
-					<h2 className="footer-title mb-2 md:mb-4">Social Media</h2>
-					<ul className="leading-loose">
-						<li>
-							<a className="footer-a" href="https://www.youtube.com/watch?v=EWMrmD8ei_8">Youtube</a>
-						</li>
-					</ul>
+  <footer className="text-gray-600 bg-indigo-100">
+		<div className="container">
+			<div className="py-8 inner">
+				<div className="items-center md:flex">
+					<Link className="font-bold text-green-500" to="/">CourseMaker</Link>
+					<div className="flex mt-3 ml-auto text-sm md:mt-0 space-x-6">
+						<Link to="/contact">Contact</Link>
+						<Link to="/privacy-policy">Privacy</Link>
+					</div>
 				</div>
 			</div>
 		</div>

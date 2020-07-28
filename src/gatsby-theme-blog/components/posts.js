@@ -11,7 +11,7 @@ const Posts = ({ location, posts, siteTitle, socialLinks, pageContext }) => {
   return (
     <Layout location={location} title={siteTitle} >
       <SEO {...seo} />
-      <div className="post-list">
+			<div className="post-list space-y-4 md:space-y-6">
       <PostList posts={posts} />
     </div>
     </Layout>

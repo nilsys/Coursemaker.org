@@ -19,6 +19,7 @@
     "gatsby-plugin-robots-txt": "^1.5.1",
     "gatsby-plugin-s3": "^0.3.3",
     "gatsby-plugin-sitemap": "^2.4.5",
+    "gatsby-plugin-stylus": "^2.3.10",
     "gatsby-remark-images": "^3.3.11",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.3.12",
