@@ -103,6 +103,10 @@ module.exports = {
       options: {
         icon: `src/images/updated_favicon.png`
       }
-    }
+    },
+		`gatsby-plugin-stylus`,
+		{
+			resolve: `gatsby-plugin-stylus`,
+		},
   ]
 };

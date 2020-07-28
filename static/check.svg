@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.93165,9 C4.79365,9 4.66165,8.943 4.56715,8.8425 L2.13565,6.253 C1.94615,6.052 1.95665,5.7355 2.15765,5.5465 C2.35915,5.3575 2.67565,5.3675 2.86415,5.5685 L4.92665,7.764 L9.13065,3.163 C9.31765,2.9585 9.63365,2.945 9.83765,3.131 C10.04115,3.317 10.05515,3.6335 9.86915,3.837 L5.30065,8.837 C5.20715,8.94 5.07415,8.999 4.93515,9 L4.93165,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-+-text" transform="translate(0.000000, -2.000000)">
+            <g id="Group" transform="translate(0.000000, 2.000000)">
+                <circle id="Oval" fill="#ebf4ff" cx="8" cy="8" r="8"></circle>
+                <g id="27)-Icon/checkmark" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="🎨-Icon-Сolor" fill="#48bb78" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

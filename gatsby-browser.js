@@ -1,3 +1,4 @@
+import './src/css/style.styl';
 import './src/css/tailwind.css';
 
 const addScript = url => {
