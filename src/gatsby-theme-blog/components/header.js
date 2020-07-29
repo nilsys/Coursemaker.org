@@ -20,11 +20,11 @@ function Header() {
 
 				<div className={`${ isExpanded ? `block` : `hidden` } 
 					lg:flex text-gray-600 lg:space-x-8 lg:w-auto lg:space-y-0 lg:py-0 lg:border-t-0 w-full space-y-3 py-8 border-t items-center`}>
-					<Link to="/">Home</Link>
+					<Link className="transition duration-300 hover:text-green-500" to="/">Home</Link>
 				</div>
 			</div>
 			<div className="container">
-				<hr />
+				<hr className="relative" style={{ top: '1px' }} />
 			</div>
 		</header>
 

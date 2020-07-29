@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
 			<main className="py-16 text-gray-900 lg:py-24">
 				<div className="container">
 					<div className="flex justify-center">
-						<div className="w-full xl:w-3/4">
+						<div className="w-full xl:w-9/12">
 							{children}
 						</div>
 					</div>

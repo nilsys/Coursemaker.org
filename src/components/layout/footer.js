@@ -1,10 +1,12 @@
 import { Link } from "gatsby";
 import React from 'react';
 
-const Footer = () => (
+const Footer = ({ hr }) => (
   <footer className="text-gray-600 bg-indigo-100">
 		<div className="container">
-			<hr />
+			{hr && (
+				<hr />
+			)}
 			<div className="py-8 inner">
 				<div className="items-center md:flex">
 					<Link className="font-bold text-green-500" to="/">CourseMaker</Link>
