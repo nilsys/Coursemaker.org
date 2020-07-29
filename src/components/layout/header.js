@@ -4,6 +4,21 @@ import LogoIcon from '../../svg/LogoIcon';
 
 function Header() {
 
+	const links = [
+		{
+			title: 'Product',
+			href: '/#product',
+		},
+		{
+			title: 'Pricing',
+			href: '/#pricing',
+		},
+		{
+			title: 'Blog',
+			href: '/blog',
+		},
+	]
+
 	const [isExpanded, toggleExpansion] = useState(false)
 
 	return (
@@ -20,9 +35,13 @@ function Header() {
 
 				<div className={`${ isExpanded ? `block` : `hidden` } 
 					lg:flex text-gray-600 lg:space-x-8 lg:w-auto lg:space-y-0 lg:py-0 lg:border-t-0 w-full space-y-3 py-8 border-t items-center`}>
-					<Link to="#product">Product</Link>
-					<Link to="#pricing">Pricing</Link>
-					<Link to="/blog">Blog</Link>
+					{links.map((link) => {
+						return (
+							<li>
+								<Link className="transition duration-300 hover:text-green-500" to={link.href}>{link.title}</Link>
+							</li>
+						);
+					})}
 				</div>
 
 			</div>

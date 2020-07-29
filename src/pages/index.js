@@ -13,7 +13,7 @@ export default ({ pageContext, location }) => {
 			},
   	};
 	return (
-		<Layout>
+		<Layout footerHr="true">
 			<SEO {...seo} />
 			<section id="home-hero" class="text-center overflow-hidden">
 				<div className="relative py-20 pb-10 content">
@@ -32,8 +32,8 @@ export default ({ pageContext, location }) => {
 				</div>
 
 				<div className="container relative">
-					<div className="w-full mx-auto lg:w-8/12 xl:w-6/12">
-						<img className="block w-full" src={`../../home-1.png`} alt="Home 1" />
+					<div className="w-full pb-5 mx-auto lg:w-8/12 xl:w-6/12">
+						<img className="block w-full shadow-lg" src={`../../home-1.png`} alt="Home 1" />
 					</div>
 				</div>
 			</section>
