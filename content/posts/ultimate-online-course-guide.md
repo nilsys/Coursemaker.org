@@ -82,20 +82,8 @@ too expensive for more clients if they were in the form of one-on-one consultati
 - **Build Reputation:** Creating an online course (particularly a successful one) is a powerful signal that you know
 what you are talking about. It can make a CV stand out during job applications or pitch evaluations. 
 
+Checkout this post for a detailed look at [deciding whether you should create an online course](/blog/why-create-online-course-reasons-for-against).
 
-#### An Online Course Requires Focus
-![alt text](../assets/focussed_cat.jpeg "online courses require focus")
-Now that we've clarified why you might want to create an online course, let's focus on what it takes.
-> Creating an online course is a significant commitment. 
-
-Depending on the course topic (which we'll be looking at in the next section), you may need to set aside time 
-for research and supporting 
-material preparation, beyond simply creating the course lectures. Whilst there are ways to massively simplify 
-the recording process (which we will look at in sections 7 & 8), editing your videos still takes time. 
-That's not to say it's not worth doing - it absolutely is, but you should go in with the mindset that this 
-is something you are going to have to devote considerable mental energy to. If you're in the middle of starting 
-a new job, moving house, about to have a baby, or struggling with your mental health or burnout, I would advise 
-waiting for a moment when you will have more energy and time for the endeavor.
 
 #### How Many Hours Does It Take To Create An Online Course?
 It depends on a few things:

@@ -102,7 +102,7 @@ your [referral link](https://help.skillshare.com/hc/en-us/articles/205222467-How
 
 **Alexa Traffic Rank**: ~15000 (average across partner sites)
 
-[Skillwise](https://www.skillwise.com/) is part of the [Stack Commerce](https://www.stackcommerce.com/about/) 
+[Skillwise](https://skillwise.com) is part of the [Stack Commerce](https://www.stackcommerce.com/about/) 
 umbrella. It is not to be confused with the BBC's skillwise website.
 
 Confusingly you apply to be an instructor via the 
@@ -124,7 +124,7 @@ limited to the following broad areas:
 #### Skillwise Instructor Payments
 
 For courses sold organically on StackCommerce sites (such as Skillwise, 
-[stackskills](https://stackskills.com/courses), and [stacksocial](https://stacksocial.com/)) 
+[stackskills](https://stackskills.com/courses), and [stacksocial](https://stacksocial.com)) 
 then you get 50%:
 As per the [instructor terms and conditions](https://stackcommerce.zendesk.com/hc/en-us/articles/360031423631-Instructor-Terms-Conditions)
 > Instructors will earn an Instructor Revenue Share for any Course sold on StackCommerce's 
@@ -205,8 +205,7 @@ A few online course marketplaces to consider that don't quite have the volume to
 which might still be worth checking out:
 
 - [Curious](https://curious.com/teach#howitworks)
-- [TabletWise](https://tabletwise.com)
-- [Of Course](https://www.ofcourse.co.uk/)
+- [TabletWise](https://www.tabletwise.com/)
 
 ## Niche Marketplaces
 

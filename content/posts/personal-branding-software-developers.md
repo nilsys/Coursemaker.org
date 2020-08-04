@@ -197,7 +197,7 @@ if you have a reasonable number of students. My online courses have more than 10
 has opened up a lot of opportunities for me in terms of job offers, speaking offers, paid blog posts,
 getting funding and meeting super interesting people!
 
-We have a [full guide on how to create an online course](create-sell-online-courses-ultimate-guide).
+We have a [full guide on how to create an online course](/blog/create-sell-online-courses-ultimate-guide).
 
 Getting started is easier than ever with [CourseMaker](/).
 
