@@ -108,5 +108,11 @@ module.exports = {
 		{
 			resolve: `gatsby-plugin-stylus`,
 		},
+    {
+      resolve: '@mkitio/gatsby-theme-password-protect',
+      options: {
+        password: process.env.GATSBY_SITE_PW // delete or `undefined` to disable password protection
+      }
+    }
   ]
 };
