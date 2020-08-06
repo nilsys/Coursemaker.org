@@ -21,6 +21,8 @@ jobs:
       - name: Build
         run: |
           yarn build
+        env:
+          GATSBY_SITE_PW: Pa55word
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
@@ -29,8 +31,6 @@ jobs:
           aws-region: eu-west-2
       - name: Deploy
         uses: jonelantha/gatsby-s3-action@v1
-        env:
-          GATSBY_SITE_PW: Pa55word
         with:
           dest-s3-bucket: coursemaker.io
           cloudfront-id-to-invalidate: E1RPWJUNBY4BPH
