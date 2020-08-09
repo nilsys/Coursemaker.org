@@ -25,7 +25,7 @@ The science of ensuring that you can sell online courses falls into two broad ar
 ## Your Online Course Website
 
 ### Your Copy
-When you sell an online course, you are selling the idea of a transformation. Your student will
+When you sell a course in the online learning industry, you are selling the idea of a transformation. Your student will
 take your course and emerge at the end with a new skill, mindset, understanding, or motivation which
 will have a noteworthy impact on their life. It is important to understand:
 
@@ -44,8 +44,8 @@ online course brand, but gives you an idea of the sheer range of possibilities w
 
 > Pricing is part of your product
 
-You should consider your business model carefully - are you offering a one-time purchase model or
-going for a membership site? This can have significant pricing implications. When setting your 
+You should consider your business model carefully, especially for a new course - are you offering a one-time 
+purchase model or going for a membership site? This can have significant pricing implications. When setting your 
 price, you are also sending a signal. A low price indicates that what you are
 selling is of low value. Excessive discounts can make potential students suspicious and alienate
 existing students. Act accordingly. 
@@ -77,7 +77,7 @@ quotes, gifs, bullet points, and videos.
 
 Great ways to show authority include customer testimonials, trust pilot reviews, and social share
 stats. These can also create visually appealing "pops" on your landing page. It's also useful
-to have an "about the author" section where you detail your course author(s) backgrounds - humanize
+to have "about the author" course pages or landing page sections where you detail your course author(s) backgrounds - humanize
 yourself with a photo (or better yet, video), and add plenty of detail. Students want to know
 who they are learning from!
 
@@ -242,7 +242,8 @@ audience.
 ### Social & Display Ads
 Many social platforms will allow you to target potential course students with ads very effectively.
 Whilst Instagram and Facebook ads may be expensive and over-utilized, they can work given enough time
-and research. Less popular platforms for ads, such as Reddit, LinkedIn, Pinterest, and twitter can
+and research (facebook groups can be particularly effective). 
+Less popular platforms for ads, such as Reddit, LinkedIn, Pinterest, and twitter can
 all offer decent click through rates. Like SEM, this is another way to drum up traffic if you 
 are starting from zero and have a little money to spend. 
 
@@ -276,8 +277,9 @@ Here's how Netlify do this with their [open-source HeadlessCMS comparison site](
 
 ### Direct Sales
 This is just good old cold outreach. Email people. Use LinkedIn paid "InMail". Pick up the phone. 
-It's brutal, but it works. This can be particularly effective for courses with a high price point. It is also
-effective for courses companies would be interested in buying for compliance reasons.
+It's brutal, but it works. Be sure to follow up with anyone who replies! This can be particularly effective for 
+courses with a high price point. It is also
+effective for a course topic that centers around a compliance requirement.
 
 *Further Reading*
 - [Harry Dry's sales email template](https://www.indiehackers.com/post/my-sales-email-template-035cb29b54)
@@ -309,7 +311,7 @@ actually be worth giving a shot since it will be so unusual.
 Affiliate marketing is when you promote other companies’ products. You can allow affiliates to
 promote your online course and then offer them a commission in the event of a sale.
 
-Many online course platforms (Thinkific, CourseMaker) will allow you to set up affiliate links. You can
+Many online course platforms (Thinkific, Teachable, CourseMaker) will allow you to set up affiliate links. You can
 then reach out to influencers in your niche and see if they are interested in being an affiliate. 
 
 It's a deep rabbit hole, but some people have made a lot of money going down this path.
@@ -338,7 +340,10 @@ effective sales funnels.
 This is the classic "AIDA" formula (Awareness, Interest, Decision, Action). Potential students
 may not hear about your course launch immediately, your course sales page may not have a great
 conversion rate - but if you are collecting email addresses, your brand is appearing on multiple
-platforms, then you will be able to move more potential students down the funnel. 
+platforms, then you will be able to move more potential students down the funnel. You can also run
+marketing campaigns to drive extra traffic through a given sales funnel, and also to experiment with 
+variations. Sales funnel experimentation is particularly important when you are selling via
+your [own website, rather than on a marketplace](/blog/online-marketplace-vs-self-hosting-courses).
 
 This is not something "slimy" or "sleazy" that you should feel bad about. You have worked hard
 to build an online course that will add value to people's lives - **help them find it!**
