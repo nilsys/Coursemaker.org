@@ -606,7 +606,7 @@ Who should review?
 ### Conclusion
 
 Hopefully this guide has given you a good idea about what creating a course entails, and the key things you need to
-consider. All that's left now is to start creating!
+consider. If you're looking for what to consider next, checkout our [guide to selling your online course](/blog/sell-online-courses-guide-tips).
 
 *If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
 on a regular basis*
