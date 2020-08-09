@@ -65,13 +65,13 @@ const Pricing = () => {
 					title: 'Up to 3 authors'
 				},
 				{
-					title: '5 admin users'
+					title: '3 X Course Business Coaching Session'
 				},
 			]
 		},
 		{
 			name: 'Pro',
-			price: 50,
+			price: 75,
 			features: [
 				{
 					title: 'Author payment distribution'
@@ -80,7 +80,7 @@ const Pricing = () => {
 					title: 'Unlimited authors'
 				},
 				{
-					title: '10 admin users'
+					title: 'Monthly Course Business Coaching Session'
 				},
 				{
 					title: 'Priority suppport',

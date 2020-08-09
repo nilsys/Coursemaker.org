@@ -15,7 +15,7 @@ function Header() {
 		},
 		{
 			title: 'Blog',
-			href: '/blog',
+			href: '/blog/',
 		},
 	]
 

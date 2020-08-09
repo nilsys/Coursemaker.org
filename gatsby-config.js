@@ -43,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-blog`,
       options: {
-        basePath: `/blog`,
+        basePath: `/blog/`,
         author: `CourseMaker`,
         description: `Helping you make awesome online courses`
       }
@@ -113,6 +113,7 @@ module.exports = {
       options: {
         password: process.env.GATSBY_SITE_PW // delete or `undefined` to disable password protection
       }
-    }
+    },
+    `gatsby-plugin-force-trailing-slashes`,
   ]
 };
