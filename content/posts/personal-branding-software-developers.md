@@ -221,6 +221,7 @@ talk at PyData London.
 
 ## Further Reading
 - [Swyx's guide to marketing yourself](https://www.swyx.io/writing/marketing-yourself/)
+- [Edward Nevraumont's Guide to Co-Branding](https://www.marketingbs.com/post/million-compensation)
 - [Where to host your online course](/blog/online-marketplace-vs-self-hosting-courses/)
 
 ---

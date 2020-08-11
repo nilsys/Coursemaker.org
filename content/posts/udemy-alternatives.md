@@ -332,8 +332,8 @@ of the marketing falls on you, this can be a really powerful way to take full co
 business and course creation process.
 
 We have detailed posts explaining:
-- How to choose whether or not to [use an online course platform or go with a marketplace](/blog/online-marketplace-vs-self-hosting-courses)
-- Your [options for self-hosting](/blog/sell-online-course-your-own-website)
+- How to choose whether or not to [use an online course platform or go with a marketplace](/blog/online-marketplace-vs-self-hosting-courses/)
+- Your [options for self-hosting](/blog/sell-online-course-your-own-website/)
 
 
 <a name="evaluation"></a>
@@ -351,7 +351,7 @@ of consideration. If you're in a more niche field, or you worry that the existin
 competition is too entrenched, some of the smaller players listed above might be better
 options.
 
-If you are more entrepreneurial, then [setting up your own course website](/blog/sell-online-course-your-own-website)
+If you are more entrepreneurial, then [setting up your own course website](/blog/sell-online-course-your-own-website/)
 could be your best bet.
 
 Wishing you success!

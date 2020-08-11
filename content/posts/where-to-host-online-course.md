@@ -106,7 +106,7 @@ of a potential student - are you going to purchase the course on the topic you a
 existing students and a 4.7/5 rating, or the new course on that topic with zero students and no ratings? On the other
 hand, if the existing courses are either poorly rated or out of date, then this can be a great opportunity to swoop
 in and offer an alternative. In either case, considering your course niche and customer validation are very important
-preparatory steps, which we discuss in this [comprehensive guide to creating and selling your online course](/blog/create-sell-online-courses-ultimate-guide).
+preparatory steps, which we discuss in this [comprehensive guide to creating and selling your online course](/blog/create-sell-online-courses-ultimate-guide/).
 
 ##### Ratings Death Spiral
 With course marketplaces you are very beholden to student ratings. And students are not afraid to lash out and give
