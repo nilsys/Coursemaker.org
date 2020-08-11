@@ -25,7 +25,7 @@ export default ({ pageContext, location }) => {
 							<h4 className="mb-4 text-xl text-gray-600 lg:text-2xl">Easy. Elegant. Affordable.</h4>
 							<p>We take care of all the hassle so you can focus on running your online course business.</p>
 							<div className="mt-10 button-wrapper text-wrapper">
-								<Link to="/coming-soon" className="mb-2 button">Sign up for the Beta</Link>
+								<Link to="/coming-soon/" className="mb-2 button">Sign up for the Beta</Link>
 							</div>
 						</div>
 					</div>
@@ -60,7 +60,7 @@ export default ({ pageContext, location }) => {
 								<li>Precise tracking and student analytics</li>
 								<li>You own your content and email list</li>
 							</ul>
-							<Link to="/coming-soon" className="mt-6 button">Sign up for the Beta</Link>
+							<Link to="/coming-soon/" className="mt-6 button">Sign up for the Beta</Link>
 						</div>
 						<div className="lg:w-6/12">
 							<img className="block w-full" src={`../../home-3.png`} alt="Home 3" />
@@ -82,7 +82,7 @@ export default ({ pageContext, location }) => {
 								<li>Support 7 days per week, 365 days per year</li>
 								<li>Optional markdown and GitHub integration</li>
 							</ul>
-							<Link to="/coming-soon" className="mt-6 button">Sign up for the Beta</Link>
+							<Link to="/coming-soon/" className="mt-6 button">Sign up for the Beta</Link>
 						</div>
 						<div className="lg:w-7/12">
 							<img className="block w-full" src={`../../home-5.png`} alt="Home 5" />
@@ -104,7 +104,7 @@ export default ({ pageContext, location }) => {
 								<li>GDPR Compliant</li>
 								<li>No Transaction Fees</li>
 							</ul>
-							<Link to="/coming-soon" className="mt-6 button">Sign up for the Beta</Link>
+							<Link to="/coming-soon/" className="mt-6 button">Sign up for the Beta</Link>
 						</div>
 						<div className="lg:w-6/12">
 							<img className="block w-full" src={`../../home-4.png`} alt="Home 4" />
@@ -125,7 +125,7 @@ export default ({ pageContext, location }) => {
 								<li>SEO out of the box</li>
 								<li>Student site optimized for all screen sizes</li>
 							</ul>
-							<Link to="/coming-soon" className="mt-6 button">Sign up for the Beta</Link>
+							<Link to="/coming-soon/" className="mt-6 button">Sign up for the Beta</Link>
 						</div>
 						<div className="lg:w-2/12"></div>
 						<div className="lg:w-4/12">
@@ -153,7 +153,7 @@ export default ({ pageContext, location }) => {
 								</div>
 								<h3 className="mb-3 text-2xl font-bold text-green-500">For developers</h3>
 								<p className="mb-3">If you are a technical course author, we have something special for you.</p>
-								<Link className="link hover:underline" to="/coming-soon">Learn More</Link>
+								<Link className="link hover:underline" to="/coming-soon/">Learn More</Link>
 							</div>
 						</div>
 					</div>

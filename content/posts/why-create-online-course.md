@@ -29,7 +29,7 @@ Whilst huge financial success is not the norm, it is very common for online cour
 
 #### Personal Brand & Career Benefits
 
-In today’s competitive job market, having a course on a topic (particularly if it has a significant number of students) is a great way to signal expertise. Stacking these kinds of signals (i.e. building accomplishments and sharing them), is a powerful way to grow your personal brand. [Growing your personal brand opens up a lot of opportunities](http://localhost:8000/blog/improve-personal-branding-software-developers)
+In today’s competitive job market, having a course on a topic (particularly if it has a significant number of students) is a great way to signal expertise. Stacking these kinds of signals (i.e. building accomplishments and sharing them), is a powerful way to grow your personal brand. [Growing your personal brand opens up a lot of opportunities](/blog/improve-personal-branding-software-developers/)
 
 In terms of your own skill growth, being forced to assess and break down topics during course creation 
 into manageable chunks can reveal subtle gaps in your own understanding which you will fill as you build out your course. In short, teaching a topic improves your understanding of it, a method often referred to as the [Feynman technique](https://www.scotthyoung.com/learnonsteroids/grab/TranscriptFeynman.pdf) after the nobel winning scientist Richard Feynman. Your students will also ask you difficult questions! Sometimes this will open up angles and views which you might otherwise never have come across.
@@ -62,7 +62,7 @@ Nonetheless, there are no guarantees in entrepreneurship and so this is a risk y
 
 #### Creating an Online Business
 
-Even if you sell your course through a marketplace business model rather than your own site (see here for a [detailed comparison of the two options](/blog/online-marketplace-vs-self-hosting-courses)) you will still want to promote your course to maximize your returns. 
+Even if you sell your course through a marketplace business model rather than your own site (see here for a [detailed comparison of the two options](/blog/online-marketplace-vs-self-hosting-courses/)) you will still want to promote your course to maximize your returns. 
 Granted, a marketplace takes a portion of the burden away, but you usually receive a larger profit 
 share when you are sending traffic to your courses. 
 
@@ -74,7 +74,7 @@ the reality is you also need to consider all the things which go into an online 
 
 *   Marketing & Growing an Audience
 *   Web Hosting
-*   [Technology choices](http://localhost:8000/blog/why-create-online-course-reasons-for-against/sell-online-course-your-own-website)
+*   [Technology choices](/blog/sell-online-course-your-own-website/)
 *   Bookeeping, taxes and compliance
 *   Customer support (more on this below) & testimonials
 

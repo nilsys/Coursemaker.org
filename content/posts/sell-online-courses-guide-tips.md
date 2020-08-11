@@ -6,10 +6,10 @@ slug: sell-online-courses-guide-tips
 excerpt: Build it and they will come is simply not true. You need a sales plan!
 ---
 Previously in this series:
-- [Understand why you might want to create an online course](/blog/why-create-online-course-reasons-for-against)
+- [Understand why you might want to create an online course](/blog/why-create-online-course-reasons-for-against/)
 - [Selecting the right niche for your course topic](/blog/create-sell-online-courses-ultimate-guide/#deciding)
 - [Creating Your Course Content](/blog/create-sell-online-courses-ultimate-guide/#curriculum)
-- [Deciding Where to Sell Your Online Course](/blog/online-marketplace-vs-self-hosting-courses)
+- [Deciding Where to Sell Your Online Course](/blog/online-marketplace-vs-self-hosting-courses/)
 
 At this point, course creation is complete and you're thinking about how to avoid the number one risk 
 when it comes to creating an online course: **Not getting sales**
@@ -94,7 +94,7 @@ Here's marketing expert [Justin Jackson's landing page cheat sheet](https://devm
 ### Growing Your Audience
 If you are serious about making a good living from your online courses, building an
 audience is the logical place to put your effort. This also has the added benefit of 
-[improving your personal branding](/blog/improve-personal-branding-software-developers), as well
+[improving your personal branding](/blog/improve-personal-branding-software-developers/), as well
 as setting your online business up for the long-term.
 
 > Audience is the new currency
@@ -343,7 +343,7 @@ conversion rate - but if you are collecting email addresses, your brand is appea
 platforms, then you will be able to move more potential students down the funnel. You can also run
 marketing campaigns to drive extra traffic through a given sales funnel, and also to experiment with 
 variations. Sales funnel experimentation is particularly important when you are selling via
-your [own website, rather than on a marketplace](/blog/online-marketplace-vs-self-hosting-courses).
+your [own website, rather than on a marketplace](/blog/online-marketplace-vs-self-hosting-courses/).
 
 This is not something "slimy" or "sleazy" that you should feel bad about. You have worked hard
 to build an online course that will add value to people's lives - **help them find it!**

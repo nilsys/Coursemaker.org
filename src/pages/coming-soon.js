@@ -3,13 +3,9 @@ import Layout from '../components/layout/layout';
 import SEO from "../components/seo";
 
 export default ({ pageContext, location }) => {
-	  const seo = {
-			frontmatter: {
-				// By default, get the slug from the page location.
-				slug: location.pathname.replace(/[^\w\d-]/g, ''),
-				...pageContext.frontmatter,
-			},
-  	};
+	const seo = {
+		pageTitle: "Coming Soon",
+	};
 	return (
 		<Layout>
 			<SEO {...seo} />

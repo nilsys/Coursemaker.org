@@ -82,7 +82,7 @@ too expensive for more clients if they were in the form of one-on-one consultati
 - **Build Reputation:** Creating an online course (particularly a successful one) is a powerful signal that you know
 what you are talking about. It can make a CV stand out during job applications or pitch evaluations. 
 
-Checkout this post for a detailed look at [deciding whether you should create an online course](/blog/why-create-online-course-reasons-for-against).
+Checkout this post for a detailed look at [deciding whether you should create an online course](/blog/why-create-online-course-reasons-for-against/).
 
 
 #### How Many Hours Does It Take To Create An Online Course?
@@ -400,7 +400,7 @@ the side of caution.
 ### Part 6: Selling on a marketplace vs. hosting your own site
 ![Online Course Selling](../assets/selling_course.jpg "Where to sell your online course")
 
-[We have a dedicated post on this topic which provides more detail](/blog/online-marketplace-vs-self-hosting-courses). In this section you can find
+[We have a dedicated post on this topic which provides more detail](/blog/online-marketplace-vs-self-hosting-courses/). In this section you can find
 a shorter summary.
  
 Broadly speaking, you have two choices when it comes to where you sell your online course:
@@ -606,7 +606,7 @@ Who should review?
 ### Conclusion
 
 Hopefully this guide has given you a good idea about what creating a course entails, and the key things you need to
-consider. If you're looking for what to consider next, checkout our [guide to selling your online course](/blog/sell-online-courses-guide-tips).
+consider. If you're looking for what to consider next, checkout our [guide to selling your online course](/blog/sell-online-courses-guide-tips/).
 
 *If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
 on a regular basis*
