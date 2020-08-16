@@ -11,27 +11,31 @@ const Pricing = () => {
 	const plans = [
 		{
 			name: "Starter",
-			price: 17,
+			price: 9,
 			features: [
 				{
-					title: 'Unlimited videos'
+					title: 'Unlimited Videos'
 				},
 				{
-					title: 'Unlimited students'
+					title: 'No Transaction Fees'
 				},
 				{
-					title: 'Own domain with SSL'
+					title: '1 course'
 				},
 				{
-					title: 'Memberships',
-					info: false,
-					detail: 'Some long description about this feature'
+					title: 'Up to 10 students'
+				},
+				{
+					title: '1 Admin User'
 				},
 				{
 					title: 'Out of the box SEO'
 				},
 				{
-					title: 'Blazing fast student site',
+					title: 'Out of the box GDPR compliance'
+				},
+				{
+					title: 'Blazing fast mobile responsive student site',
 					info: false,
 					detail: 'Some long description about this feature'
 				},
@@ -39,15 +43,7 @@ const Pricing = () => {
 					title: 'Track student progress'
 				},
 				{
-					title: 'GA integration'
-				},
-				{
-					title: 'Coupon codes'
-				},
-				{
-					title: 'Free migrations',
-					info: false,
-					detail: 'Some long description about this feature'
+					title: 'Google Analytics integration'
 				},
 			]
 		},
@@ -56,31 +52,53 @@ const Pricing = () => {
 			price: 25,
 			features: [
 				{
-					title: 'GitHub integration'
+					title: 'Up to 5 courses'
 				},
 				{
-					title: 'Compliance (EU VAT, US Sales Tax)'
+					title: 'Up to 100 monthly active students with no fees, then 5% transaction fee'
 				},
 				{
-					title: 'Up to 3 authors'
+					title: '3 Admin Users'
 				},
 				{
-					title: '3 X Course Business Coaching Session'
-				},
-			]
-		},
-		{
-			name: 'Pro',
-			price: 75,
-			features: [
-				{
-					title: 'Author payment distribution'
+					title: '3 X 1-on-1 Course Business Coaching Session'
 				},
 				{
 					title: 'Unlimited authors'
 				},
 				{
-					title: 'Monthly Course Business Coaching Session'
+					title: 'Custom domain with SSL'
+				},
+				{
+					title: 'Memberships',
+					info: false,
+					detail: 'Some long description about this feature'
+				},
+				{
+					title: 'Free migrations',
+					info: false,
+					detail: 'Some long description about this feature'
+				},
+				{
+					title: 'Coupons'
+				},
+			]
+		},
+		{
+			name: 'Growth',
+			price: 75,
+			features: [
+				{
+					title: 'Up to 20 courses'
+				},
+				{
+					title: 'Up to 500 monthly active students with no fees, then 2% transaction fee'
+				},
+				{
+					title: 'Up to 10 Admin Users'
+				},
+				{
+					title: 'Monthly 1-on-1 Course Business Coaching Session'
 				},
 				{
 					title: 'Priority suppport',
@@ -122,19 +140,19 @@ const Pricing = () => {
 											<div className="flex items-center justify-center pricing">
 												<div className="text-2xl font-bold">$
 													{annual ? (
-														(plan.price * 12) - (plan.price * 12 * 0.25)
+														(plan.price) - (plan.price * 0.25)
 													) : (
 														plan.price
 													)}
 												</div>
-												{ annual ? ((<div>/yr</div>)) : (<div>/mo</div>) }
+												{ annual ? ((<div>/mo</div>)) : (<div>/mo</div>) }
 											</div>
 											<hr className="my-4" />
 											<ul className="mb-6 text-sm text-gray-700 features space-y-2">
 												{plan.name === 'Standard' && (
 													<li className="font-bold">Everything in Starter, plus:</li>
 												)}
-												{plan.name === 'Pro' && (
+												{plan.name === 'Growth' && (
 													<li className="font-bold">Everything in Standard, plus:</li>
 												)}
 												{plan.features.map((feature) => {
