@@ -408,10 +408,10 @@ the side of caution.
 
 ---
 
-<a name="curriulum"></a>
+<a name="curriculum"></a>
 
 ### Part 6: Strucuring The Online Course Content Curriculum
-Check out our step-by-step guide to creating your online course outline, which includes templates you can use yourself.
+Check out our [step-by-step guide to creating your online course outline](/blog/online-course-outline), which includes templates you can use yourself.
 
 ![Balance cat](../assets/balance_cat.jpg "Balanced cat")
 
