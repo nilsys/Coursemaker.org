@@ -15,7 +15,8 @@ excerpt: Welcome to the only online course creation guide that matters.
 You're thinking about creating an online course - this is an exciting opportunity which can be very rewarding. 
 Online courses allow you to share your hard-earned knowledge with thousands of students, and have led to many 
 authors earning a decent side-income or in some cases a full-time living. But right away, there are a lot of confusing 
-decisions to make: What should I teach? How should I structure the material? Where should I sell the course? 
+decisions to make, especially if this is your first course: What should I teach? How should I structure the 
+material? Where should I sell the course? 
 What equipment and software should I use? The questions mount up, and it can be tempting to say "maybe another time". 
 It doesn't have to be that way! In this guide, I am going to walk you through everything you need to know in order to launch a 
 successful online course. This advice is born of first-hand experience creating my own online courses which I've sold to over 10,000
@@ -23,7 +24,7 @@ students. **This guide will help you avoid the three most common mistakes course
 
 - **Building the wrong course (and hence not getting sales)**
 - **Getting stuck during the creation process**
-- **Building something great but failing to get it in front of the right audience**
+- **Creating something great but failing build an audience and conduct effective marketing**
 
 This is a comprehensive overview, so it's divided into sections. It also contains frequent cat pictures for motivation.
 
@@ -34,10 +35,11 @@ This is a comprehensive overview, so it's divided into sections. It also contain
 3. **[Part 3: Customer Discovery & Validation](#validation)** 
 4. **[Part 4: Course Positioning](#positioning)**
 5. **[Part 5: Working on your own vs. working with others](#team)**
-6. **[Part 6: Selling on a marketplace vs. hosting your own site](#selling)**
-7. **[Part 7: Designing The Course Curriculum](#curriculum)**
-8. **[Part 8. Getting Started - Your Equipment & Software](#equipment)**
-9. **[Part 9: Processes For Getting the Course Done](#done) **
+6. **[Part 6: Structuring The Course Content (Curriculum)](#curriculum)**
+7. **[Part 7. Getting Started - Your Equipment & Software](#equipment)**
+8. **[Part 8: Processes For Getting the Course Done](#done)**
+9. **[Part 9: Selling on a marketplace vs. hosting your own site](#selling)**
+10. **[Part 10: Launching and Selling Your Course](#marketing)**
 
 
 ---
@@ -55,7 +57,7 @@ fall somewhere on a spectrum. You could consider that the most basic type of cou
 an email service provider. At the other end of the spectrum there are fully accredited online university degrees, which
 take years and often require rigorous examination and one-on-one tutoring sessions via video chat.
 
-A typical online course is usually somewhere in the middle of these two extremes. These courses aree more flexible since
+A typical online course is usually somewhere in the middle of these two extremes. These courses are more flexible since
 lectures can be viewed any time, and tend to take students somewhere between a few hours and a few months to complete.
 These more typical courses are the subject of this guide. 
 
@@ -63,17 +65,18 @@ These more typical courses are the subject of this guide.
 
 There are a lot of excellent reasons to create an online course. Some of the most prevalent include:
 
-- **Having a Massive Impact:** An online course allows you to potentially reach more students in a month than many 
+- **Having a Massive Impact:** Online learning is booming. An online course allows you to potentially reach more students in a month than many 
 full-time school or university teachers encounter in a lifetime. This kind of leverage is incredibly powerful and can 
-really allow you to spread your message. Famous online courses such as Dr Barbera Oakley's ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn)
+really allow you to spread your message to a lot of people. Famous online courses such as Dr Barbera Oakley's ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn)
 have more than 2 million students enrolled.
 ![alt text](../assets/learning_how_to_learn.png "how much impact online courses can have")
 
 - **Generating [Passive Income](https://en.wikipedia.org/wiki/Passive_income)**. Because online courses tend to have a 
 higher price point than ebooks, and don't require large traffic volumes like adverts to make meaningful income, many 
-entrepreneurs find them highly effective.
-- **Building A New Career.** Some course authors decide to make a full-time career out of course creation - naturally
-this takes time, but once a critical mass of courses and students is reached an author can switch from "side hustle" to
+entrepreneurs find them highly effective as a way to make money.
+- **Building A New Career.** Some course authors decide to make a full-time career in online education through by growing their course
+online business. Naturally
+this takes time and hard work, but once a critical mass of courses and students is reached an author can switch from "side hustle" to
 "full time gig" should they wish to.
 - **Bundling With Other Services:** For some authors, their course is part of a package of services they offer, which might
 also include consulting, coaching and mentoring. 
@@ -100,17 +103,18 @@ Courses vary in size and complexity a lot. The following table gives a rough gui
 Creating exercises so that students can test out techniques and tools themselves can take significantly more time
 than just delivering lectures. Of course, exercises make make for better learning outcomes as many [learning resources
 confirm](https://www.scotthyoung.com/blog/the-best-articles-on-learning/). Therefore the balance you strike in this 
-regard here will play a key role in determining how long it takes you to create your course.
+regard will play a key role in determining how long it takes you to create your course.
 
 ##### How well you already know the material? 
 If you know a subject inside out, and can just turn on the camera and start talking then course creation is going
-to be faster. On the other hand, if you will need to undertake significant research, consult with others, test out
-theories with potential users, then naturally that will be a more labor-intensive project.
+to be faster. On the other hand, if you will need to undertake significant research, prepare case study material, 
+consult with others, test out theories with potential users, then naturally that will be a more labor-intensive project.
 
 ##### How familiar you are with video recording & editing
 If you already have a workflow in place, you can churn out videos production-line style. 
-However, if you've never recorded yourself before, you'll have to establish the right
-workflow for you (more on this in section 9)
+However, if it is your first time recording yourself, you'll have to establish the right
+workflow for you (more on this in section 9). The good news is that picking up these kinds of new skills
+is relatively easy with modern software and equipment.
 
 If you already know the material and your course is relatively brief (say under 2 hours), then it's possible to create
 a course in a weekend. My courses on machine learning took me about 150 hours each, because I had to do considerable 
@@ -152,7 +156,7 @@ Arguably the latest trends is an area to consider, but that is largely captured 
 
 Of course there are thousands (millions) of possibilities for the first area, 
 so I would advise focusing on the second (your skills) to create a list of things you could teach. 
-This list might be hard at first, but if you really inventory your 
+This course idea list might be hard at first, but if you really inventory your 
 skills and experience - you will be surprised at all the things you know! 
 
 To start, get as many ideas down as possible (don't worry about your level of ability yet). You might 
@@ -281,16 +285,24 @@ they are too biased to give you trustworthy feedback. Tom Kerwin has some
 [wise musings on this tricky process](https://tomkerwin.substack.com/p/how-to-hear-what-your-users-are-trying). And here is 
 a list of [95 ways you can go about finding potential customers to validate your ideas against](https://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/).
 
+If you have any kind of audience (we discuss building your audience in our [post on selling your course](/blog/sell-online-courses-guide-tips)),
+then you can send them surveys, presell or ask for direct feedback on your proposed course. Offering to run free webinars
+on a particular topic and advertising them in places where you potential students hangout can also give you useful signals
+about how much interest your course is likely to get. 
+
 Whilst I would say that you should never skip this step, there are useful proxies to doing a **vast** amount of customer research:
 
 Do *similar* courses exist? A common misconception is that if someone else has already created a popular course on a 
 topic that it is a bad idea to attempt to pursue that niche. On the contrary, this is actually evidence that students 
 are willing to pay money to learn about this topic which is very useful information. Now the task becomes:
-Thinking about how you can put a unique twist on the topic - e.g. by focussing on a more recent upgrade to a given tool,
+Thinking about how you can put a unique twist on the subject matter - e.g. by focussing on a more recent upgrade to a given tool,
 by targeting a slightly more/less experienced practitioner or simply by offering a better course 
 (in terms of lecture content and/or production quality).
 On the other hand if there are multiple courses on a topic and the general trend is that none of them are selling 
 well - that may well be a signal that the niche is not one that potential students are willing to pay money for. 
+
+Long-term course sales will heavily depend on your course validation activites. This is particularly important for
+your first online course.
 
 ---
 
@@ -395,9 +407,115 @@ But finding the right person is not easy and if you're not sure about the other 
 the side of caution.
 
 ---
+
+<a name="curriulum"></a>
+
+### Part 6: Strucuring The Online Course Content Curriculum
+Check out our step-by-step guide to creating your online course outline, which includes templates you can use yourself.
+
+![Balance cat](../assets/balance_cat.jpg "Balanced cat")
+
+<a name="equipment"></a>
+
+### Part 7: Getting Started - Your Equipment & Software
+
+Now you've got a course curriculum plan it's time for you to begin creating content for your course. 
+The vast majority of online courses make use of video lectures. Fundamentally, we're dealing with web pages here, 
+so anything you can put on a website (in theory) can appear in an online course. 
+The typical "types" of lectures include:
+
+- Videos (more on the specifics shortly)
+- Pure text lectures (good for smaller points, quick setup guides, or providing supplemental references)
+- Files (to download reference materials or exercises)
+- Links to external sites 
+- Quizes (pose questions to check a student's understanding)
+- Code Examples (for code-related courses)
+If you would like to provide students with downloadable materials, you will need to prepare those 
+(Google docs / MS word and saving as PDF is usually sufficient for this). 
+The majority of the complexity comes with recording video lectures.
+
+##### Types of Video Lecture
+
+1. The talking head (only you talking to the camera)
+2. The screenshare (just your computer screen with audio narration)
+3. The screenshare + talking head
+
+Here is the equipment required for each
+
+**The talking head (only you talking to the camera)**
+- Camera
+- Lapel microphone (aka lavalier mic)
+- video editing software
+
+**Screen recording**
+- Screen recording software (such as [Camtasia](https://www.techsmith.com/video-editor.html))
+- microphone
+
+**Screen recodring + talking head**
+- Screen recording software capable of doing talking head + screenshare simultaneously
+- mic (lapel or USB mic)
+- (optional) webcam (usually not needed for modern laptops)
+
+
+#### How do you know which sort of lecture to do?
+Before you go out and buy a bunch of fancy equipment and software, first decide what you really need for the 
+lectures you are going to create.
+
+For new starters, talking head lectures can be intimidating and a bit of a hassle to setup. Some of the most 
+successful online courses out there make use of exlusively screenshare lectures 
+(for example [Jose Portilla's Data Science Bootcamp Course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/))
+
+Having said that, it's true that having a mix of "talking head" and screenshare lectures looks more professional, 
+and provides a more varied student experience.
+
+---
+
+<a name="done"></a>
+
+### Part 8: Processes For Getting the Course Done
+> The second key risk to avoid as a course creator is getting stuck during the process.
+
+ There are many reasons why this can happen:
+
+- Loss of motivation
+- Other priorities taking over (health, family, career)
+- Fear of failure (perhaps due to imposter syndrome or realization that the course material is
+harder to teach than you expected) 
+
+How do you mitigate these risks? 
+This section is about how to reduce the chance of this happening to you. It will help you to 
+develop a course creation process that keeps you moving forwards.
+
+#### Time Management
+No solution is perfect here, as "life happens" and sometimes unexpected things do occur. 
+Having said that, you can improve your chances of success by:
+
+1. Timeboxing your course creation 
+2. Creating a process for progressing (i.e. habit formation)
+
+A useful method is to focus on a particular activity that moves your course forward for a certain 
+dedicated time every week. 
+
+Creating artificial deadlines is also very useful for pushing you (particularly when you are working alone). This
+might be arranging a beta testing session with a friend, paying for someone to review your work, or even arranging
+a vacation where you know you don't want to feel guilty about not having made enough progress on your course.
+
+#### Finishing Touches for Your Course
+Once you have the first draft of your course, it's important to get some feedback. 
+Note that for longer courses I would advise doing things periodically also, as key chunks once key chunks of the course
+are ready. 
+
+Who should Beta Test?
+- Potential students (if you have an email list or subscribers, this is a good time to use it)
+- Trusted (and objective) friends
+
+Who should review?
+- Experts in the course's field (likely to need to be paid)
+
+---
 <a name="selling"></a>
 
-### Part 6: Selling on a marketplace vs. hosting your own site
+### Part 9: Selling on a marketplace vs. hosting your own site
 ![Online Course Selling](../assets/selling_course.jpg "Where to sell your online course")
 
 [We have a dedicated post on this topic which provides more detail](/blog/online-marketplace-vs-self-hosting-courses/). In this section you can find
@@ -437,7 +555,7 @@ Marketplaces are great if you are just starting out, and if you don't have any k
 
 **Pros**
 + You retain full control over your course - this means pricing, 
-content and your student email list (which is super important).
+content, and your student email list (which is super important).
 + You can choose the business model - you may prefer a subscription/membership model 
 or a one-time payment approach. With your own site, such decisions are entirely within your control
 + You can choose the marketing mix (i.e. when to run promotions, what level of discount is 
@@ -452,161 +570,40 @@ If you are just getting started and have no marketing experience, then choosing 
 with a view to setting up your own site if things go well on the marketplace. 
 
 On the other hand, if you are ready to hustle, and/or already have any kind of audience (through an existing course, 
-blog, youtube channel or newsletter), then you may find that going it alone appeals more.
+blog, youtube channel, or newsletter), then you may find that going it alone appeals more. This means choosing between
+a variety of course builder platforms (such as teachable, thinkific, and CourseMaker) or WordPress learning management system (LMS) plugins which 
+we [discuss in-depth in this post](sell-online-course-your-own-website).
+
 
 ---
-
-<a name="curriulum"></a>
-
-### Part 7: Designing The Online Course Curriculum
-
-Course curriculum design is an exercise in curation. For any topic which you are considering teaching, 
-it is likely that there is a large amount of information that you *could* teach, but if you were to teach all 
-that material then your course might never launch because creation would take too long. There is also the possibility
-that you will want to save some of the material for a future course.
-
-On the other hand, students are far less likely to buy a short course. Therefore a sensible balance must be found. 
-
-![Balance cat](../assets/balance_cat.jpg "Balanced cat") 
-
-How do you find this balance? A few key areas to consider are:
-
-- **How are you positioning your course?** If you are branding the course as a "comprehensive course" on a given topic
-it's unlikely that you will be able to skip any key content. On the other hand it is perfectly reasonable to skip
-basic content for a course that is branded as "Advanced".
-- **What content does the competition offer** (particularly those with a lot of sales and high ratings)
-- **Are there sections whose omission is likely to harm the students' learning experience?**
-
-Make sure you are familiar with the [principle of diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns),
-i.e. there will come a point where adding more lectures does not significantly improve student experience and outcomes.
-
-It's worth drawing that point out more. You are optimising for two things with your online course: (1) Student experience
-and (2) Student Outcomes. These are not the same thing! A course can have terrible production value and mostly awful content,
-but if it teaches something which gets the student a promotion then that is a huge outcome. To be clear, you need to
-optimise for **both** of these factors, and the course curriculum design is one of the key ways you do this.
-
-Consider what the student knowledge is before the course and after the course. Have you added value to their life? 
-If the honest answer is yes, then your course curriculum skeleton can be prepared.
+<a name="marketing"></a>
 
 
-#### Course Curriculum Skeleton 
-
-Before you begin work on your course, you want to write down the title and rough content of every lecture in the course.
-You want to group the lectures into themed sections. If you are working in a team, you should assign people to each lecture.
-
-I like to do this using Excel, but you can use powerpoint, design tools, word, or a code editor - whatever works for you.
-The key thing is that by the end you have a clear structure.
-
-> Plans are worthless, but planning is everything
-
-*D. Eisenhower*
-
-Understand that as you work through your course and create the lectures, new ideas will occur to you, and in some 
-cases you will realise that what you thought would be easy to explain is actually more complex than expected. 
-This is all part of the process. As such, you can expect your course skeleton to change over time as you make new discoveries.
-However, the skeleton provides you with a vital structure to ensure you don't go too far off track. It also doubles
-up as a todo list, where crossing off each lecture that you complete becomes very satisfying.
-
-
-<a name="equipment"></a>
-
-### Part 8: Getting Started - Your Equipment & Software
-
-Now you've got a course curriculum plan it's time for you to begin creating content for your course. 
-The vast majority of online courses make use of video lectures. Fundamentally, we're dealing with web pages here, 
-so anything you can put on a website (in theory) can appear in an online course. 
-The typical "types" of lectures include:
-
-- Videos (more on the specifics shortly)
-- Pure text lectures (good for smaller points, quick setup guides, or providing supplemental references)
-- Files (to download reference materials or exercises)
-- Links to external sites 
-- Quizes (pose questions to check a student's understanding)
-- Code Examples (for code-related courses)
-If you would like to provide students with downloadable materials, you will need to prepare those 
-(Google docs / MS word and saving as PDF is usually sufficient for this). 
-The majority of the complexity comes with recording video lectures.
-
-##### Types of Video Lecture
-
-1. The talking head (only you talking to the camera)
-2. The screenshare (just your computer screen with audio narration)
-3. The screenshare + talking head
-
-Here is the equipment required for each
-
-**The talking head (only you talking to the camera)**
-- Camera
-- Lapel microphone
-- video editing software
-
-**Screen recording**
-- Screen recording software
-- microphone
-
-**Screen recodring + talking head**
-- Screen recording software capable of doing talking head + screenshare simultaneously
-- lapel mic
-
-
-#### How do you know which sort of lecture to do?
-Before you go out and buy a bunch of fancy equipment and software, first decide what you really need for the 
-lectures you are going to create.
-
-For new starters, talking head lectures can be intimidating and a bit of a hassle to setup. Some of the most 
-successful online courses out there make use of exlusively screenshare lectures 
-(for example [Jose Portilla's Data Science Bootcamp Course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/))
-
-Having said that, it's true that having a mix of "talking head" and screenshare lectures looks more professional, 
-and provides a more varied student experience.
+### Part 10: Launching and Selling Your Online Course
+Check out our [guide to selling your online course](/blog/sell-online-courses-guide-tips/). It includes tips to
+help you sell online courses in the following areas:
+- Search Engine Optimization (SEO)
+- Content Marketing
+- Email Marketing - newsletters and lead magnets
+- Landing pages/sales pages and copy
+- Marketing Through a Podcast
+- Search Engine Marketing (SEM)
+- Social & Display Ads
+- Social Media & Word of Mouth
+- Engineering as Marketing (AKA growth hacking)
+- Direct Sales
+- Targeting bloggers
+- Publicity & Influencers
+- Offline Ads
+- Affiliate Programs
+- Offline Events & Conferences
 
 ---
-
-<a name="done"></a>
-
-### Part 9: Processes For Getting the Course Done
-> The second key risk to avoid as a course creator is getting stuck during the process.
-
- There are many reasons why this can happen:
-
-- Loss of motivation
-- Other priorities taking over (health, family, career)
-- Fear of failure (perhaps due to imposter syndrome or realisation that the course material is
-harder to teach than you expected) 
-
-How do you mitigate these risks? 
-This section is about how to reduce the chance of this happening to you.
-
-#### Time Management
-No solution is perfect here, as "life happens" and sometimes unexpected things do occur. 
-Having said that, you can improve your chances of success by:
-
-1. Timeboxing your course creation 
-2. Creating a process for progressing (i.e. habit formation)
-
-A useful method is to focus on a particular activity that moves your course forward for a certain 
-dedicated time every week. 
-
-Creating artificial deadlines is also very useful for pushing you (particularly when you are working alone). This
-might be arranging a beta testing session with a friend, paying for someone to review your work, or even arranging
-a vacation where you know you don't want to feel guilty about not having made enough progress on your course.
-
-#### Finishing Touches for Your Course
-Once you have the first draft of your course, it's important to get some feedback. 
-Note that for longer courses I would advise do things periodically also, as key chunks once key chunks of the course
-are ready. 
-
-Who should Beta Test?
-- Potential students (if you have an email list or subscribers, this is a good time to use it)
-- Trusted (and objective) friends
-
-Who should review?
-- Experts in the course's field (likely to need to be paid)
-
 ### Conclusion
 
-Hopefully this guide has given you a good idea about what creating a course entails, and the key things you need to
-consider. If you're looking for what to consider next, checkout our [guide to selling your online course](/blog/sell-online-courses-guide-tips/).
+Hopefully, this guide has given you a good idea about what creating a course entails, and the key things you need to
+consider to build an online course business. 
+If you have questions, feel free to email me directly (chris@coursemaker.org). I reply to all emails.
 
 *If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
 on a regular basis*

@@ -174,7 +174,7 @@ export default ({ pageContext, location }) => {
 			</section>
 
 			<Pricing />
-
+			<div className="mx-auto mt-auto text-center">For High-Volume custom requirements send us an email and we will come up with a detailed quote within 24 hours.</div>
 		</Layout>
 	);
 };
