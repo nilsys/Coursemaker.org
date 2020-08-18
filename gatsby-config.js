@@ -95,7 +95,7 @@ module.exports = {
         defer: false,
         // Any additional optional fields
         sampleRate: 5,
-        siteSpeedSampleRate: 10
+        siteSpeedSampleRate: 100
       }
     },
     {
