@@ -86,16 +86,14 @@ module.exports = {
         // The property ID; the tracking code won't be generated without it
         trackingId: "UA-170173292-1",
         // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: false,
-        // Avoids sending pageview hits from custom paths
-        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        head: true,
         // Delays sending pageview hits on route update (in milliseconds)
         pageTransitionDelay: 0,
         // Defers execution of google analytics script after page load
         defer: false,
         // Any additional optional fields
-        sampleRate: 5,
-        siteSpeedSampleRate: 100
+        sampleRate: 100,
+        siteSpeedSampleRate: 10
       }
     },
     {
