@@ -63,23 +63,9 @@ module.exports = {
 				path: `${__dirname}/content/assets`,
 			},
 		},
-		{
-    resolve: `gatsby-transformer-remark`,
-			options: {
-				plugins: [
-					`gatsby-remark-relative-images`,
-					{
-						resolve: `gatsby-remark-images`,
-						options: {
-							maxWidth: 800,
-							linkImagesToOriginal: false,
-							sizeByPixelDensity: true,
-							showCaptions: true
-						}
-					},
-				]
-			}
-		},
+    {
+      resolve: `@horacioh/gatsby-theme-mdx`
+    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
