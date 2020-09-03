@@ -88,8 +88,3 @@ up as a todo list, where crossing off each lecture that you complete becomes ver
  
 Many course creators experience analysis-paralysis, and the course structure you initially create can help to snap you out of that 
 and show the path ahead. You can find more tips on avoiding getting stuck in our [ultimate guide](/blog/create-sell-online-courses-ultimate-guide/#done).
-
----
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

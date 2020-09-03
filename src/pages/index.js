@@ -41,7 +41,7 @@ export default ({ pageContext, location }) => {
 			<section id="product" className="py-16 lg:py-20">
 				<div className="container">
 					<h2 className="mb-12 md:text-center">Everything you need in one place</h2>
-					<img className="block w-full mx-auto lg:w-9/12" src={`../../home-2.png`} alt="Home 2" />
+					<img className="block w-full mx-auto lg:w-9/12" src={`../../home-2-new.png`} alt="Home 2" />
 				</div>
 			</section>
 
@@ -174,7 +174,15 @@ export default ({ pageContext, location }) => {
 			</section>
 
 			<Pricing />
-			<div className="mx-auto mt-auto text-center">For High-Volume custom requirements send us an email and we will come up with a detailed quote within 24 hours.</div>
+
+			<div className="pb-16 bg-indigo-100">
+				<div className="container">
+					<p class="text-center md:w-1/2 mx-auto">
+						For High-Volume custom requirements send us an email and we will come up with a detailed quote within 24 hours.
+					</p>
+				</div>
+			</div>
+
 		</Layout>
 	);
 };

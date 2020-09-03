@@ -355,8 +355,3 @@ If you are more entrepreneurial, then [setting up your own course website](/blog
 could be your best bet.
 
 Wishing you success!
-
----
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

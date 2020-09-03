@@ -10,7 +10,9 @@ function Header() {
 
 		<header className={`${ isExpanded ? `shadow` : `` } bg-white sticky lg:sticky top-0 left-0 w-full transition-shadow duration-300 ease-in-out z-20`}>
 			<div className="container flex flex-wrap items-center justify-between lg:py-6">
-				<Link to="/" className="flex items-center text-2xl font-bold text-green-500 logo">CourseMaker</Link>
+				<Link to="/blog" className="block">
+					<img className="block w-40" src={`../../logo.svg`} alt="CourseMaker" />
+				</Link>
 
 				<div className="block py-8 lg:hidden lg:py-0">
 					<button onClick={() => toggleExpansion(!isExpanded)} className="flex items-center border-blue-500">
@@ -19,13 +21,15 @@ function Header() {
 				</div>
 
 				<div className={`${ isExpanded ? `block` : `hidden` } 
-					lg:flex text-gray-600 lg:space-x-8 lg:w-auto lg:space-y-0 lg:py-0 lg:border-t-0 w-full space-y-3 py-8 border-t items-center`}>
+					lg:flex text-gray-600 lg:space-x-8 lg:w-auto lg:space-y-0 lg:py-1 lg:border-t-0 w-full space-y-3 py-8 border-t items-center`}>
 					<Link className="transition duration-300 hover:text-green-500" to="/">Home</Link>
 				</div>
 			</div>
+			{/*
 			<div className="container">
 				<hr className="relative" style={{ top: '1px' }} />
 			</div>
+			*/}
 		</header>
 
 	)
