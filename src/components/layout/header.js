@@ -14,6 +14,10 @@ function Header() {
 			href: '/#pricing',
 		},
 		{
+			title: 'Podcast',
+			href: '/podcast/',
+		},
+		{
 			title: 'Blog',
 			href: '/blog/',
 		},
