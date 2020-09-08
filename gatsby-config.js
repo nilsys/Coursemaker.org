@@ -113,5 +113,28 @@ module.exports = {
       }
     },
     `gatsby-plugin-force-trailing-slashes`,
+    {
+      resolve: `gatsby-source-rss-feed`,
+      options: {
+        url: `https://feed.podbean.com/coursemaker/feed.xml`,
+        name: `Podcast`,
+        // Optional
+        // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
+        parserOption: {
+          customFields: {
+            item: ['itunes:duration', 'itunes:episode', 'itunes:image', 'itunes:summary']
+          }
+        }
+      }
+    },
+    `gatsby-plugin-mdx`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `podcast-markdown-pages`,
+        path: `${__dirname}/content/podcast`,
+      },
+    },
+    `@pauliescanlon/gatsby-mdx-embed`
   ]
 };
