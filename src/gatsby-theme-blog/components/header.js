@@ -4,13 +4,27 @@ import LogoIcon from '../../svg/LogoIcon';
 
 function Header() {
 
-	const [isExpanded, toggleExpansion] = useState(false)
+	const [isExpanded, toggleExpansion] = useState(false);
+		const links = [
+		{
+			title: 'Home',
+			href: '/',
+		},
+		{
+			title: 'Start Here',
+			href: '/start-here/',
+		},
+		{
+			title: 'Blog',
+			href: '/blog/',
+		},
+	]
 
 	return (
 
 		<header className={`${ isExpanded ? `shadow` : `` } bg-white sticky lg:sticky top-0 left-0 w-full transition-shadow duration-300 ease-in-out z-20`}>
 			<div className="container flex flex-wrap items-center justify-between lg:py-6">
-				<Link to="/blog" className="block">
+				<Link to="/" className="block">
 					<img className="block w-40" src={`../../logo.svg`} alt="CourseMaker" />
 				</Link>
 
@@ -22,7 +36,13 @@ function Header() {
 
 				<div className={`${ isExpanded ? `block` : `hidden` } 
 					lg:flex text-gray-600 lg:space-x-8 lg:w-auto lg:space-y-0 lg:py-1 lg:border-t-0 w-full space-y-3 py-8 border-t items-center`}>
-					<Link className="transition duration-300 hover:text-green-500" to="/">Home</Link>
+					{links.map((link) => {
+						return (
+							<li>
+								<Link className="transition duration-300 hover:text-green-500" to={link.href}>{link.title}</Link>
+							</li>
+						);
+					})}
 				</div>
 			</div>
 			{/*
