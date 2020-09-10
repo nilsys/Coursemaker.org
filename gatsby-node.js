@@ -23,17 +23,27 @@ exports.createPages = async ({ graphql, actions }) => {
               id
             }
           }
+          allMdx {
+            nodes {
+              slug
+              id
+              frontmatter {
+                pagetype
+                title
+              }
+            }
+          }
         }
       `
     )
-  
+
     if (result.errors) {
       throw result.errors
     }
-  
+
     // Create Podcast pages.
     const podcasts = result.data.allFeedPodcast.nodes
-  
+
     podcasts.forEach((podcast, index) => {
       const slug = slugify(podcast.title) // Convert title to url-safe slug (RSS feed doesn't provide a slug)
       createPage({
@@ -46,6 +56,21 @@ exports.createPages = async ({ graphql, actions }) => {
         },
       })
     })
-    
+
+    // Create comparison pages.
+    const all_pages = result.data.allMdx.nodes
+
+    all_pages.forEach((page, index) => {
+      if (page.frontmatter.pagetype == 'comparison'){
+        const slug = slugify(page.slug) // Convert to safe slug (slug is generated from file name)
+        createPage({
+          path: `/${slug}/`,
+          component: path.resolve(`./src/components/comparison-page.js`),
+          // values in the context object are passed in as variables to page queries
+          context: {
+            id: page.id, // "Using a Theme"
+          },
+        })
+      }
+    })
   }
-  

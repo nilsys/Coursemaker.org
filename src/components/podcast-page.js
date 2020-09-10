@@ -11,9 +11,13 @@ const Podcast = ({data, pageContext}) => {
     const podcast = data.feedPodcast // Data from the RSS feed
     const podcastMdx = data.mdx // Data from MDX files
     const audioUrl = podcast.enclosure.url
+      const seo = {
+          pageTitle: podcastMdx.frontmatter.title
+    };
 
     return (
         <Layout>
+          <SEO {...seo} />
           <main className="py-16 text-gray-900 lg:py-24">
             <div className="container">
               <div className="flex justify-center">

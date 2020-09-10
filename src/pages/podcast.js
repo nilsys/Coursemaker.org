@@ -7,11 +7,7 @@ const { slugify } = require('../utils/slugify')
 // Template for the list of podcasts, sourced from the RSS feed, which can be found in gatsby-config
 export default ({ pageContext, location, data }) => {
     const seo = {
-          frontmatter: {
-              // By default, get the slug from the page location.
-              slug: location.pathname.replace(/[^\w\d-]/g, ''),
-              ...pageContext.frontmatter,
-          },
+          pageTitle: "All Podcasts"
     };
     const podcasts = data.allFeedPodcast.nodes
 

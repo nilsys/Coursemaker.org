@@ -148,6 +148,13 @@ module.exports = {
         path: `${__dirname}/content/podcast`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `custom-markdown-pages`,
+        path: `${__dirname}/content/comparison_pages`,
+      },
+    },
     `@pauliescanlon/gatsby-mdx-embed`
   ]
 };

@@ -4,13 +4,14 @@ date: 2020-06-20
 author: CourseMaker
 slug: create-sell-online-courses-ultimate-guide
 featuredImage:
-    src: "../assets/choosing_platform/confused_guy.jpg"
+    src: "/assets/choosing_platform/confused_guy.jpg"
 excerpt: Welcome to the only online course creation guide that matters.
 ---
 
 ## Welcome to this online course creation guide - everything you need to know about making your course.
 
-![alt text](/assets/online_course.jpg "building online courses")
+![building online courses](/assets/online_course.jpg "building online courses")
+
 
 You're thinking about creating an online course - this is an exciting opportunity which can be very rewarding. 
 Online courses allow you to share your hard-earned knowledge with thousands of students, and have led to many 
@@ -48,7 +49,7 @@ This is a comprehensive overview, so it's divided into sections. It also contain
 
 ## 1. Mindset - Are you ready to create an online course?
 
-![alt text](/assets/curious_cat.jpeg "are you ready to create an online course")
+![are you ready to create an online course](/assets/curious_cat.jpeg "are you ready to create an online course")
 
 #### What Exactly Is An Online Course
 
@@ -69,7 +70,9 @@ There are a lot of excellent reasons to create an online course. Some of the mos
 full-time school or university teachers encounter in a lifetime. This kind of leverage is incredibly powerful and can 
 really allow you to spread your message to a lot of people. Famous online courses such as Dr Barbera Oakley's ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn)
 have more than 2 million students enrolled.
-![alt text](/assets/learning_how_to_learn.png "how much impact online courses can have")
+
+![how much impact online courses can have](/assets/learning_how_to_learn.png "how much impact online courses can have")
+
 
 - **Generating [Passive Income](https://en.wikipedia.org/wiki/Passive_income)**. Because online courses tend to have a 
 higher price point than ebooks, and don't require large traffic volumes like adverts to make meaningful income, many 
@@ -91,7 +94,11 @@ Checkout this post for a detailed look at [deciding whether you should create an
 #### How Many Hours Does It Take To Create An Online Course?
 It depends on a few things:
 ##### What size course are you creating?
-Courses vary in size and complexity a lot.
+
+Courses vary in size and complexity a lot. The following table gives a rough guide:
+
+![course creation table](/assets/course_creation_time_table.png)
+
 
 ##### How Interactive Is the Course? 
 Creating exercises so that students can test out techniques and tools themselves can take significantly more time
@@ -129,7 +136,8 @@ You will also want to validate your product idea before building it, since spend
 something no one wants is one of the more depressing experiences in life ([trust me, I know](https://christophergs.com/python/2017/02/26/rolltec-paper/)). 
 How to select a focus area for your course which is likely to sell makes up the next section of the guide.
 
-![alt text](/assets/results_excuses.jpg "Online courses are products")
+![online courses are products](/assets/results_excuses.jpg "Online courses are products")
+
 
 ---
 
@@ -144,7 +152,8 @@ There are two key questions to consider when deciding what your online course sh
 1. What topics do people want to learn about enough to pay for them?
 2. What topics do you know well enough to teach (or could partner with others to teach effectively)?
 
-![alt text](/assets/selection_venn_diagram.png "Good topics for online courses")
+![good topics for online courses](/assets/selection_venn_diagram.png "Good topics for online courses")
+
 
 Arguably the latest trends is an area to consider, but that is largely captured within "what people want to learn".
 
@@ -185,7 +194,8 @@ Contrary to what you might be thinking, you don't have to be a master of the top
 
 #### How Good Do You Need to Be?
 
-![alt text](/assets/how_good_cat.jpg "How good do you need to be to teach online courses")
+![how good to teach](/assets/how_good_cat.jpg "How good do you need to be to teach online courses")
+
 How you position your course (which we will be discussing in more detail in the next section) is really important
  for determining the level of skill required to create the course. For example, if you were to create a course
  titled "How to become a world-class baker", your level of baking skill would probably have to be that of 
@@ -250,7 +260,8 @@ person who would take such a course. This is a process called **customer discove
 
 ##### Customer Discovery For Your Online Course
 
-![alt text](/assets/cowan_customer_discovery.png "customer discovery for online courses")
+![customer discovery](/assets/cowan_customer_discovery.png "customer discovery for online courses")
+
 *Source: [Alexander Cowan Customer Discovery Handbook](https://www.alexandercowan.com/customer-discovery-handbook/)*
 
 Whilst not all areas of typical customer discovery questions are necessary for an online course (such as usability and the medium
