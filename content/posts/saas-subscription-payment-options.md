@@ -47,7 +47,7 @@ The acquiring bank processes payments on your behalf, and offers you what is kno
 
 Here's a diagram of the whole sequence:
 
-![payment gateway diagram](../assets/saas_payments/payment_gateway_diagram.png "payment sequence")
+![payment gateway diagram](/assets/saas_payments/payment_gateway_diagram.png "payment sequence")
 
 *Role of the payment gateway*
 
@@ -119,7 +119,7 @@ to collect payment (i.e. acting as the payment gateway) but also to calculate th
 appropriate tax and crucially to also remit that tax to the appropriate government
 for you. In other words, this is a kind of authorized reseller relationship
 
-![merchant of record diagram](../assets/saas_payments/mor-process.jpg "MoR sequence")
+![merchant of record diagram](/assets/saas_payments/mor-process.jpg "MoR sequence")
 
 *Source*: [paddle.com](https://paddle.com/blog/what-is-merchant-of-record/)
 
@@ -134,7 +134,7 @@ range of options can be overwhelming. Here is a graphic to give some perspective
 
 *Note: feature/pricing not to scale*
 
-![SaaS payment options diagram](../assets/saas_payments/saas_payment_landscape.jpg "SaaS Payment Landscape")
+![SaaS payment options diagram](/assets/saas_payments/saas_payment_landscape.jpg "SaaS Payment Landscape")
 
 
 ---
@@ -145,7 +145,7 @@ range of options can be overwhelming. Here is a graphic to give some perspective
 
 ### PayPal
 
-![PayPal homepage](../assets/saas_payments/paypal_homepage.png)
+![PayPal homepage](/assets/saas_payments/paypal_homepage.png)
 
 Since the dawn of time (well, 1998) [PayPal](https://www.paypal.com/) has been a leading player in the 
 online payments arena.
@@ -163,7 +163,7 @@ collecting payments
 
 ### [Stripe Payments](https://stripe.com/payments)
 
-![Stripe Payments Homepage](../assets/saas_payments/stripe_payments.png)
+![Stripe Payments Homepage](/assets/saas_payments/stripe_payments.png)
 
 It's pretty crazy to think that the mighty [Collison brothers](https://en.wikipedia.org/wiki/Patrick_Collison) 
 launched Stripe as recently as 2011. It's now established itself as the go-to payment gateway for 
@@ -192,7 +192,7 @@ seamlessly with Stripe's ever-expanding ecosystem. Key features:
 ## Subscription Billing Software Key Players
 
 #### Stripe Billing
-![Stripe Billing Homepage](../assets/saas_payments/stripe_billing.png)
+![Stripe Billing Homepage](/assets/saas_payments/stripe_billing.png)
 [Stripe billing](https://stripe.com/billing) is basically the subscription business basic payments toolkit. It covers probably 80% of
 small businesses' needs. When you start needing a more complex subscription management platform then
 some of the other software companies in this list are where you would look.
@@ -218,7 +218,7 @@ and automated reconciliation. Let's look at some of them now.
 
 #### Chargebee
 
-![Chargebee Homepage](../assets/saas_payments/chargebee_homepage.png)
+![Chargebee Homepage](/assets/saas_payments/chargebee_homepage.png)
 
 [Chargebee](https://www.chargebee.com/) is the sort of subscription management software you look at when you have annual recurring revenue (ARR) in the $1M - $20M
 range, although they do have a nice [intro deal] (https://www.chargebee.com/launch/?ref=pricingPage) 
@@ -242,7 +242,7 @@ It's important to note that Chargebee does not ship with a payment gateway, so y
 
 #### Chargify
 
-![Chargify Homepage](../assets/saas_payments/chargify_homepage.png)
+![Chargify Homepage](/assets/saas_payments/chargify_homepage.png)
 
 [Chargify](https://www.chargify.com/) is another platform for handling advanced billing
 & revenue management for B2B SaaS.
@@ -265,7 +265,7 @@ Like Chargebee, they also expect you to integrate with a payment gateway of your
 
 #### Recurly
 
-![Recurly Homepage](../assets/saas_payments/recurly_homepage.png)
+![Recurly Homepage](/assets/saas_payments/recurly_homepage.png)
 
 Recurly offers a variety of billing solutions for subscription billing such as:
 - One-time charge pricing model (e.g. $550 for as an initial setup fee for a new
@@ -311,7 +311,7 @@ subscription management platform.
 
 ### Quaderno
 
-![Quaderno Homepage](../assets/saas_payments/quaderno_video.png)
+![Quaderno Homepage](/assets/saas_payments/quaderno_video.png)
 
 [Quaderno](https://quaderno.io) has carved a decent reputation for itself in this niche. It calculates:
 - US Sales Tax
@@ -328,7 +328,7 @@ reports. **However, it does not remit the taxes for you**
 
 ### TaxJar
 
-![Taxjar Homepage](../assets/saas_payments/taxjar_homepage.png)
+![Taxjar Homepage](/assets/saas_payments/taxjar_homepage.png)
 
 [TaxJar](https://www.taxjar.com/pricing/) is more US-focused, but still can be 
 useful for international businesses. Key benefits:

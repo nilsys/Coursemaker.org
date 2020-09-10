@@ -6,7 +6,7 @@ slug: sell-online-course-your-own-website
 excerpt: What you should know when it comes to online course platforms.
 ---
 
-![online course options with your own website](../assets/own_site_post/evaluation_matrix3.png "evaluating your options")
+![online course options with your own website](/assets/own_site_post/evaluation_matrix3.png "evaluating your options")
 
 *note: If you are looking for a guide on the complete process of creating an online course [checkout our comprehensive
 guide](/blog/create-sell-online-courses-ultimate-guide) (20 min read)*
@@ -62,7 +62,7 @@ so that students can pick up where the left off)
 - **Sales promotion**: Things like creating coupons so you can run marketing campaigns and offer discounts
 - **Sales funnels**: Optimize your sales process with things like affiliates and upsells
 
-![features of online course website](../assets/own_site_post/features.png)
+![features of online course website](/assets/own_site_post/features.png)
 
 
 What follows is a breakdown of each of the course website options. If you want to skip ahead to how to 
@@ -77,7 +77,7 @@ The good news is that even if you don't know how to code, the complexity and cos
 course website has dropped a lot in recent years. This is largely due to the rise of static site generators. Here is a
 [comprehensive list of static site generators](https://www.staticgen.com/)). 
 
-![static site generators for online course website](../assets/own_site_post/static_site_generators.png)
+![static site generators for online course website](/assets/own_site_post/static_site_generators.png)
 
 
 Don't worry if you've not heard of the tools above. The key thing to understand is that 
@@ -117,7 +117,7 @@ the OpenEdX Platform on your local machine). The good news is that these platfor
 every feature imaginable.
 The bad news is that they come with a lot of features which you won't need, which increases setup complexity.
 
-![Open EdX Logo](../assets/own_site_post/openedx_logo.png)
+![Open EdX Logo](/assets/own_site_post/openedx_logo.png)
 
 #### Pros
 - ✅ Extremely feature-rich
@@ -184,7 +184,7 @@ this is almost certainly your worst option from those available.
 
 ## Using a Dedicated Online Course Builder
 
-![Build your own online course website with a course platform](../assets/own_site_post/tool_for_job.jpg)
+![Build your own online course website with a course platform](/assets/own_site_post/tool_for_job.jpg)
 
 Dedicated online course builders such as teachable or CourseMaker offer an online course website creation
 experience that is tailored towards those who are building online courses. This means that things like 
@@ -224,7 +224,7 @@ due to lack of dedicated features, like trying to make an elephant dance.
 
 Here is a rough guide to making the decision:
 
-![Evaluating options for your own course website](../assets/own_site_post/evaluating_options.png)
+![Evaluating options for your own course website](/assets/own_site_post/evaluating_options.png)
 
 Good luck with creating your online course website!
 

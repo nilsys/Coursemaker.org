@@ -15,7 +15,7 @@ Every Udemy course instructor who has been on the platform for more than a few m
 sinking feeling - You know the one: looking at how much you are earning per student and realize that 
 it's...**a tiny fraction of the course price on average**:
 
-![udemy price share](../assets/udemy_alt_marketplaces/udemy_share.png "ouch")
+![udemy price share](/assets/udemy_alt_marketplaces/udemy_share.png "ouch")
 
 **Seeing these kinds of numbers feels like a punch in the gut.** 
 You put all those hours into your course and that's all the cut you get? 
@@ -46,10 +46,10 @@ There are hundreds of e-learning sites out there, and Udemy is clearly the king 
 some [50 million students as of 2020](https://en.wikipedia.org/wiki/Udemy).
 Here we will talk about five significant Udemy alternatives for course authors.
 
-![Udemy alternative chart](../assets/udemy_alt_marketplaces/alternative_chart.png)
+![Udemy alternative chart](/assets/udemy_alt_marketplaces/alternative_chart.png)
 
 ### 1. Skillshare
-![skillshare homepage](../assets/udemy_alt_marketplaces/skillshare_homepage.png)
+![skillshare homepage](/assets/udemy_alt_marketplaces/skillshare_homepage.png)
 
 **Alexa Global Traffic Rank**: ~1,600
 
@@ -98,7 +98,7 @@ your [referral link](https://help.skillshare.com/hc/en-us/articles/205222467-How
 
 ## 2. Skillwise
 
-![skillwise homepage](../assets/udemy_alt_marketplaces/skillwise_homepage.png)
+![skillwise homepage](/assets/udemy_alt_marketplaces/skillwise_homepage.png)
 
 **Alexa Traffic Rank**: ~15000 (average across partner sites)
 
@@ -140,7 +140,7 @@ of paid ads (e.g. Google AdWords / Facebook Ads) then they take a whopping 90%:
 
 
 ### 3. Edureka
-![Edureka homepage](../assets/udemy_alt_marketplaces/edureka_homepage.png)
+![Edureka homepage](/assets/udemy_alt_marketplaces/edureka_homepage.png)
 
 **Alex Global Traffic Ranking**: ~3,200
 
@@ -166,7 +166,7 @@ for or against you depending on factors such as your experience, location, and r
 
 
 ### 4. Skills Success
-![Skills Success homepage](../assets/udemy_alt_marketplaces/skills_success_homepage.png)
+![Skills Success homepage](/assets/udemy_alt_marketplaces/skills_success_homepage.png)
 
 **Alexa Global Traffic Ranking**: 81,935
 Course creators might also want to consider [Skills Success](https://www.skillsuccess.com/)
@@ -176,7 +176,7 @@ for new authors I guess you provide a link to the videos). They then get back to
 within 3 days. 
 
 ### 5. Coggno
-![coggno homepage](../assets/udemy_alt_marketplaces/coggno_homepage.png)
+![coggno homepage](/assets/udemy_alt_marketplaces/coggno_homepage.png)
 **Alexa Global Traffic Rank**: ~660,000
 
 Despite the website's shockingly bad UI, this is actually quite
@@ -291,7 +291,7 @@ This does give you the flexibility to offer your course on your own platform.
 
 Here is a summary of your options:
 
-![Udemy instructor alternative options](../assets/udemy_alt_marketplaces/instructor_options.png)
+![Udemy instructor alternative options](/assets/udemy_alt_marketplaces/instructor_options.png)
 
 Naturally, if you opt to sell your course on alternative platforms you need to manage your
 pricing accordingly: Students will not be delighted to discover they could have got your course
@@ -303,7 +303,7 @@ cheaper on a different marketplace - these are the unwritten rules of ecommerce.
 
 ## Sell on your own site vs. another marketplace
 
-![Pros and cons of online course marketplaces](../assets/choosing_platform/pros_cons_cat.jpg "pros and cons cat")
+![Pros and cons of online course marketplaces](/assets/choosing_platform/pros_cons_cat.jpg "pros and cons cat")
 
 Broadly speaking, there are two main types of online learning platforms:
 

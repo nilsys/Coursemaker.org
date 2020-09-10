@@ -14,7 +14,7 @@ Previously in this series:
 At this point, course creation is complete and you're thinking about how to avoid the number one risk 
 when it comes to creating an online course: **Not getting sales**
 
-![online course sales always be closing](../assets/how_to_sell/always_be_closing.jpg)
+![online course sales always be closing](/assets/how_to_sell/always_be_closing.jpg)
 
 The science of ensuring that you can sell online courses falls into two broad areas which we will cover in detail:
 
@@ -36,7 +36,7 @@ Once you have these two points figured out, then they should inform your copy - 
 and messaging. Consistency is key here - if you start mixing analogies, or emphasizing quite different
 benefits, then you will confuse potential students. 
 
-![virgin atlantic copy](../assets/how_to_sell/virgin_atlantic.png)
+![virgin atlantic copy](/assets/how_to_sell/virgin_atlantic.png)
 *Virgin Atlantic's copy has always been edgy and tongue in cheek. This is unlikely to work for your
 online course brand, but gives you an idea of the sheer range of possibilities when it comes to tone.*
 
@@ -68,7 +68,7 @@ outcomes.
 them avoid failure
 - Have a clear call to action
 
-![fruit stand](../assets/how_to_sell/fruit_stand.jpg)
+![fruit stand](/assets/how_to_sell/fruit_stand.jpg)
 
 ### Content Mix
 Having engaging content on your course website both before and after a student signs up is another
@@ -81,7 +81,7 @@ to have "about the author" course pages or landing page sections where you detai
 yourself with a photo (or better yet, video), and add plenty of detail. Students want to know
 who they are learning from!
 
-![review stars](../assets/how_to_sell/review_stars.png)
+![review stars](/assets/how_to_sell/review_stars.png)
 
 *More Resources*
 Here's marketing expert [Justin Jackson's landing page cheat sheet](https://devmarketing.xyz/fb/)
@@ -105,7 +105,7 @@ discuss below,
 but they tend to involve spending money (e.g. through ads). A more sustainable approach is to
 really double down on audience building as [described in this podcast with Anthony "pomp" Pomliano](https://www.youtube.com/watch?v=HDefPe9AhHQ).
 
-![target audience](../assets/how_to_sell/target_audience.png)
+![target audience](/assets/how_to_sell/target_audience.png)
 
 
 ### Tactics List
@@ -152,7 +152,7 @@ system.
 SEO is a big old topic, but if you can arm yourself with a basic understanding of it, you will
 spin your wheels far less when it comes to content marketing.
 
-![Data Mix](../assets/how_to_sell/data_mix.png)
+![Data Mix](/assets/how_to_sell/data_mix.png)
 
 *Further references*:
 - [Moz's Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
@@ -201,7 +201,7 @@ to, you can build a following over time. The newsletter is a tried and tested wa
 a loyal audience, but its model is still constantly being iterated on, and paid newsletters as an
 actual business rather than just as a [lead is becoming more common](https://trends.vc/trends-0011-paid-newsletters/).
 
-![email marketing](../assets/how_to_sell/email_marketing.png)
+![email marketing](/assets/how_to_sell/email_marketing.png)
 
 #### Lead Magnets
 A common practice for email marketing is to have a "lead magnet", which is a flagship piece of content
@@ -211,7 +211,7 @@ an exclusive course or slack channel, or worksheets.
 When it comes to online courses, having an email list is a very powerful lever that allows you to
 run presales campaigns, get beta testers, check ideas, and run seasonal sales. 
 
-![lead magnet example](../assets/how_to_sell/lazy_programmer_lead_magnet.png)
+![lead magnet example](/assets/how_to_sell/lazy_programmer_lead_magnet.png)
 *Lazy Programmer offers an [entire course as free content](https://lazyprogrammer.me/deep-learning-courses/) (i.e. a lead magnet) - 
 this is obviously a very advanced technique*
 
@@ -234,7 +234,7 @@ If you know what you are doing, or are prepared to put in the work learning how 
 Google ads, then this channel can be a way to generate course sales when you have no existing
 audience.
 
-![Google AdSense](../assets/how_to_sell/google_logo.png)
+![Google AdSense](/assets/how_to_sell/google_logo.png)
 
 *Further References*
 - [Hubspot's Ultimate Guide to SEM](https://blog.hubspot.com/marketing/search-engine-marketing)
@@ -273,7 +273,7 @@ If you are technical or are willing to pay/beg for technical assistance, then cr
 that your potential students would find valuable and seek out can be a great growth hack. 
 
 Here's how Netlify do this with their [open-source HeadlessCMS comparison site](https://headlesscms.org/)
-![Headless CMS site](../assets/how_to_sell/headless_cms.png)
+![Headless CMS site](/assets/how_to_sell/headless_cms.png)
 
 ### Direct Sales
 This is just good old cold outreach. Email people. Use LinkedIn paid "InMail". Pick up the phone. 
@@ -334,7 +334,7 @@ your credentials (which you can use in your sales copy).
 We've just been through a long list of tactics. The secret is to combine and chain these into
 effective sales funnels. 
 
-![Sales Funnel](../assets/how_to_sell/sales_funnel.jpg)
+![Sales Funnel](/assets/how_to_sell/sales_funnel.jpg)
 *Source: [entrepreneur.com](https://www.entrepreneur.com/article/296526)*
 
 This is the classic "AIDA" formula (Awareness, Interest, Decision, Action). Potential students

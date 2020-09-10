@@ -21,7 +21,7 @@ for a future course.
  
 On the other hand, students are far less likely to buy a short course. Therefore a sensible balance must be found.
 
-![course outline concept](../assets/course_outline/concept.jpg)
+![course outline concept](/assets/course_outline/concept.jpg)
  
 How do you find this balance? A few key areas to consider are:
  
@@ -78,7 +78,7 @@ If you are working in a team, you should assign people to each lecture.
 
 **Here is a [real curriculum outline spreadsheet](https://docs.google.com/spreadsheets/d/1JBXeo3lD5UPf9jTtDEO6oOBU8UmLrJznQ32B1S07nSE/edit?usp=sharing) for one of my courses**
 
-![course outline example worksheet](../assets/course_outline/outline_example.png)
+![course outline example worksheet](/assets/course_outline/outline_example.png)
  
 Understand that as you work through your course and create the lectures, new ideas will occur to you, and in some
 cases you will realize that what you thought would be easy to explain is actually more complex than expected.

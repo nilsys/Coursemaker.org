@@ -25,7 +25,7 @@ Note that I say the marginal costs are _close_ to zero, and I’ll talk more abo
 
 Whilst huge financial success is not the norm, it is very common for online courses to make decent sales amounts, ranging from a few hundred to many thousands of dollars per month. This can start out as a nice bit of extra cash every month, grow to a meaningful side income stream that pays some of the bills and eventually become a full time job if you persevere.
 
-![Personal Branding Equation](../assets/reasons_to_online_course/income_growth.jpg)
+![Personal Branding Equation](/assets/reasons_to_online_course/income_growth.jpg)
 
 #### Personal Brand & Career Benefits
 
@@ -44,7 +44,7 @@ In some cases, an online course may be a product which a customer can then opt t
 
 You can reach thousands or even millions of students through a successful online course. This is pretty mind-boggling - you can add value to so many people’s lives using the lever of technology. Messages from delighted students, and the knowledge that you’re helping large numbers of people can create very meaningful work which can help you feel more fulfilled in your life.
 
-![Existential considerations](../assets/reasons_to_online_course/ikigai.png)
+![Existential considerations](/assets/reasons_to_online_course/ikigai.png)
 
 ---
 
@@ -107,7 +107,7 @@ Nathan Barry calls the "Selling Products" [ladder of wealth creation](https://na
 
 #### An Online Course Requires Focus
 
-![Home workstation](../assets/reasons_to_online_course/home_focus.jpg)
+![Home workstation](/assets/reasons_to_online_course/home_focus.jpg)
 
 Now that we’ve clarified why you might want to create an online course, let’s focus on what it takes.
 

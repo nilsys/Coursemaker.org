@@ -8,7 +8,7 @@ featuredImage:
 excerpt: Choosing the right platform for your online course is an important decision.
 ---
 
-![guy confused about which online course platform to choose](../assets/choosing_platform/confused_guy.jpg "confused guy")
+![guy confused about which online course platform to choose](/assets/choosing_platform/confused_guy.jpg "confused guy")
 
 Whether you are just starting out as an online course author, or have an established library of courses, evaluating
 where you sell your product is an important decision. Whilst at first glance things can appear simple, there are
@@ -32,7 +32,7 @@ This is a comprehensive overview, so it's divided into sections. It also contain
 
 ## Part 1: Online Course Hosting Options Overview
 
-![online course options overview](../assets/choosing_platform/overview_cat.jpg "overview cat")
+![online course options overview](/assets/choosing_platform/overview_cat.jpg "overview cat")
 
 Broadly speaking, there are two approaches to selling an online course:
 
@@ -67,7 +67,7 @@ price, of course).
 
 ## Part 2: Online Course Marketplace Pros and Cons
 
-![Pros and cons of online course marketplaces](../assets/choosing_platform/pros_cons_cat.jpg "pros and cons cat")
+![Pros and cons of online course marketplaces](/assets/choosing_platform/pros_cons_cat.jpg "pros and cons cat")
 
 An online course marketplace such as Udemy, Pluralsight or LinkedIn Learning contains a library of online courses and 
 an existing user-base of students. 
@@ -133,11 +133,11 @@ For example, Udemy courses tend to be significantly longer and more detailed tha
 
 *Typical Udemy Courses - note the length*
 
-![Udemy course examples](../assets/udemy.png "Udemy Courses") 
+![Udemy course examples](/assets/udemy.png "Udemy Courses") 
 
 *Typical Skillshare Courses - note the length*
 
-![Skillshare course examples](../assets/skillshare.png "Skillshare Courses") 
+![Skillshare course examples](/assets/skillshare.png "Skillshare Courses") 
 
 You wouldn't want to put a 45-minute course on Udemy (unless you knew what you were doing), but that might work fine
 on Skillshare. 
@@ -154,7 +154,7 @@ have limited control over the pricing. In the case of Udemy, your lack of contro
 Whilst it may appear that you can set your course price somewhere between $10-$200, through the mechanism Udemy
 refers to as the ["Global Price Tier Matrix"](https://support.udemy.com/hc/en-us/articles/229605368-Pricing-Your-Course):
 
-![Udemy Pricing](../assets/choosing_platform/udemy_pricing.png "Udemy Pricing") 
+![Udemy Pricing](/assets/choosing_platform/udemy_pricing.png "Udemy Pricing") 
 
 The reality is that Udemy runs constant discounts on courses, so that:
 
@@ -193,7 +193,7 @@ Here are the potential sales scenarios:
 
 And don't forget that this is taxable income :)
 
-![Cat subject to tax](../assets/choosing_platform/cray_cat.jpg "Crazy Cat") 
+![Cat subject to tax](/assets/choosing_platform/cray_cat.jpg "Crazy Cat") 
 
 As these scenarios illustrate, selling your course through a marketplace is much more about volume. This can be 
 good because you'll find out about issues with your course faster. It's also a great way to reach a lot of students
@@ -232,7 +232,7 @@ This does give you the flexibility to offer your course on your own platform, bu
 course from their collection for 12 months**
 
 #### Support Gotchas
-![Online course support](../assets/choosing_platform/support_cat.jpg "Support Cat") 
+![Online course support](/assets/choosing_platform/support_cat.jpg "Support Cat") 
 
 It's important to understand that if you choose a marketplace then success will result in dealing with a lot
 of student questions. For my courses (~10k students), my co-author and I probably spend around
@@ -319,7 +319,7 @@ you're likely looking at $200 per year fixed costs, plus transaction fees from a
 [Stripe](https://stripe.com/). If you take the fully managed solutions, such as Kajabi or Teachable, you're looking at
 somewhere between $400-$2000 depending on the level of plan you need.
 
-![Online Course Pricing](../assets/choosing_platform/pricing_cat.jpg "Pricing cat") 
+![Online Course Pricing](/assets/choosing_platform/pricing_cat.jpg "Pricing cat") 
 
 **Obligatory Plug**: Course Maker will be considerably more affordable than the existing options. [Sign up here
 for launch updates](/)

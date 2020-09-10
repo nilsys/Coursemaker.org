@@ -6,7 +6,7 @@ slug: learn-to-code-for-free
 excerpt: You don't need to a Computer Science degree, and you definitely don't need a bootcamp
 ---
 
-![learn to code](../assets/learn-how-to-code/coding_laptop.jpg "code")
+![learn to code](/assets/learn-how-to-code/coding_laptop.jpg "code")
 
 I studied English Literature at university and I didn't write a line of code until I was 24. Since making the
 fateful decision to learn to code, I've been a front-end developer, backend software engineer (of varying levels of 
@@ -41,7 +41,7 @@ This matters because you need plenty of time to determine if coding is right for
 
 ## Part 1: What Is Coding and Why Learn it?
 
-![learn how to code](../assets/learn-how-to-code/climb_stairs.jpg "beginning the journey")
+![learn how to code](/assets/learn-how-to-code/climb_stairs.jpg "beginning the journey")
 
 Coding is automating stuff with computers. Some view it as an art, a kind of craftsmanship. Others look at it as 
 churning out widgets. The truth is that it is a tool, like a paintbrush, which you can use to do routine things
@@ -89,7 +89,7 @@ consulting, which probably warrants its own post).
 
 
 ##### Launching Your Own Product
-![launch a software product](../assets/learn-how-to-code/new_career.jpg)
+![launch a software product](/assets/learn-how-to-code/new_career.jpg)
 Some people just want to launch their own product or create open-source software. 
 Wanting to build a product is what got me into software development. It was my source of motivation.
 
@@ -123,7 +123,7 @@ aren't bothered about launching a product.
 
 ### Terminology
 
-![planning code on a whiteboard](../assets/learn-how-to-code/programmer_bro.jpg)
+![planning code on a whiteboard](/assets/learn-how-to-code/programmer_bro.jpg)
 
 A lot of terms get thrown around when describing computer coding. Terms like:
 
@@ -145,7 +145,7 @@ or "a hacker follows a certain ethos". Some do, some don't. They can all write c
 
 ## Part 2: Mindset When Learning How to Code
 
-![learning to code mindset](../assets/learn-how-to-code/zen_garden.jpg)
+![learning to code mindset](/assets/learn-how-to-code/zen_garden.jpg)
 
 > Not everything can be taught, but everything can be learned. 
 
@@ -186,7 +186,7 @@ to skip over ("yeah, yeah, tell me which programming language to learn already")
 
 The sub-genre of general "learning" which coding often (though not always) falls into is "problem-solving". 
 
-![learning to code books](../assets/learn-how-to-code/books.jpg)
+![learning to code books](/assets/learn-how-to-code/books.jpg)
 
 #### Love of learning and the long-term
 
@@ -229,7 +229,7 @@ are so important that this guide has a dedicated section on project selection.
 
 ### Don't Worry About Credentials
 
-![coding credentials do not matter](../assets/learn-how-to-code/credentials.jpg)
+![coding credentials do not matter](/assets/learn-how-to-code/credentials.jpg)
 
 "I haven't got a computer science degree so I can't be a software engineer" is total guff. Yes you can. And it's
 also possible that you'll be far better programmer than many with those credentials. Some of the best people I've
@@ -266,7 +266,7 @@ and such courses are preposterous and will only impart a very superficial unders
 Returning back to the more respectable bootcamps which span 3+ months, my question: Do the benefits of a bootcamp 
 justify the financial risk? Let's dig into these.
 
-![coding bootcamp pros and cons](../assets/learn-how-to-code/soldiers.jpg)
+![coding bootcamp pros and cons](/assets/learn-how-to-code/soldiers.jpg)
 
 ##### Bootcamp Benefits
 
@@ -315,7 +315,7 @@ all of this...
 *I can't resist a final dig at the bootcamp industry: there are now courses to help you get onto bootcamps! Looking
 forward to the bootcamp bootcamps.*
 
-![Courses to get into a bootcamp](../assets/learn-how-to-code/hack_reactor_lolz.png)
+![Courses to get into a bootcamp](/assets/learn-how-to-code/hack_reactor_lolz.png)
 
 ---
 
@@ -371,7 +371,7 @@ involved this weird thing called [CSS](https://en.wikipedia.org/wiki/Cascading_S
 
 ## Part 5: Project-Based Learning for Learning to Code
 
-![project-based learning for software engineering](../assets/learn-how-to-code/projects.jpg)
+![project-based learning for software engineering](/assets/learn-how-to-code/projects.jpg)
 
 You learn by doing. And you "do" through projects. A project can be as simple as printing "Hello, World!". At the
 other extreme, a project can be a fully-functioning product that you turn into a business or open-source tool with 
@@ -406,7 +406,7 @@ warm embrace of the online course and enter the harsh reality of your own projec
 
 Think of your projects like a ratchet for your understanding. 
 
-![ratchet](../assets/learn-how-to-code/ratchet.jpg)
+![ratchet](/assets/learn-how-to-code/ratchet.jpg)
 
 Here are some stages of difficulty and timeslines for your projects:
 
@@ -418,7 +418,7 @@ Here are some stages of difficulty and timeslines for your projects:
 Here's a very early project from my own journey: A website to advertise my Grandma's house for sale. 
 It won a number of awards (no
 it didn't):
-![An early project](../assets/learn-how-to-code/early_project.png "early project")
+![An early project](/assets/learn-how-to-code/early_project.png "early project")
 
 ##### Early stage (you've done 3-4 few baby stage projects)
 - Todo list app
@@ -433,7 +433,7 @@ feature set very tight. Make sure it's something you can complete in a weekend.
 
 I'm an MMA nerd, so I made a site that showed fighter's records interactively which looked like this (was live
 for many years but I've taken it down now):
-![MMA data science](../assets/learn-how-to-code/mma_datascience.png "MMA stats")
+![MMA data science](/assets/learn-how-to-code/mma_datascience.png "MMA stats")
 
 
 ##### Late stage (you've done 3-4 few mid stage projects)
@@ -464,7 +464,7 @@ Each of these project stages should act as a skills ratchet. It is very easy to 
 you will enter a flow state and that is pleasant). You need to be spending a meaningful amount of your project time
 pushing yourself because flow does not lead to mastery, deliberate practice does.
 
-![Deliberate practice when learning to code](../assets/learn-how-to-code/flow_vs_deliberate.png "Flow vs mastery")
+![Deliberate practice when learning to code](/assets/learn-how-to-code/flow_vs_deliberate.png "Flow vs mastery")
 
 *Source*: [Scott H. Young's Blog](https://www.scotthyoung.com/blog/2017/03/29/flow-doesnt-lead-to-mastery/)
 
@@ -533,7 +533,7 @@ one day (turns out you shouldn't ignore certain emails) to move everything to ne
 This was a wearable for martial artists. This project introduced me to machine learning, which in turn set me up
 for working as a machine learning engineer further down the line.
 
-![another coding project](../assets/learn-how-to-code/rolltec_diagram.jpg)
+![another coding project](/assets/learn-how-to-code/rolltec_diagram.jpg)
 
 [Here is the technical write up](https://christophergs.com/python/2017/02/26/rolltec-paper/)
 
@@ -568,7 +568,7 @@ with you unless they are good friends).
 someone talking about fixing some crazy sounding bug and to enjoy the fact that you understood some fraction of
 what was being said.
 
-![build up your network](../assets/learn-how-to-code/building_network.jpg)
+![build up your network](/assets/learn-how-to-code/building_network.jpg)
 
 Get involved in these communities, even if you feel uncomfortable. I volunteered to run the Beijing Python meetup (along
 with the great and powerful John Dietrick) when I wasn't even working as a professional developer and was still 
@@ -621,7 +621,7 @@ This is yet another reason why shipping is critical - it gives you live apps you
 If it has users, even better. There are many (the majority I would say) professional 
 engineers who have never launched an app of their own into the world. You can truly stand out from them.  
 
-![getting your first job as a developer](../assets/learn-how-to-code/getting_job.jpg)
+![getting your first job as a developer](/assets/learn-how-to-code/getting_job.jpg)
 
 That is about getting invited for interview. Then there is the actual interview, which is a pretty specific skillset
 in and of itself. You will need to revise data structures, algorithms and system design. I'd advise checking out

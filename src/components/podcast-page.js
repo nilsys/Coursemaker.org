@@ -26,13 +26,23 @@ const Podcast = ({data, pageContext}) => {
                   </div>
                   
                   <AudioPlayer
-                        autoPlay={false}
+                        autoPlay
                         src={audioUrl}
+                        onPlay={e => console.log("onPlay")}
                         customAdditionalControls={[]}
                         header={podcast.title}
                         style={{marginBottom:`20px`}}
                         // for more customization, check: https://github.com/lhz516/react-h5-audio-player
                       />
+                  
+                  <div style={{display:`flex`, flexWrap:`wrap`, width:`100%`, paddingBottom:`20px`}}>
+                    {/* Download button, actually opens the file instead of directly downloading it (can't download files cross-origin) */}
+                    <a href={audioUrl} style={{backgroundColor:`#868686`, padding:`7px 10px`, borderRadius:`3px`, height:`40px`, marginRight:`10px`,color:`white`,fontWeight:`500`}} download={podcast.title}>Download audio</a>
+                    {/* Podcast buttons */}
+                    {podcastMdx.frontmatter.appleLink && <a style={{marginRight:`10px`, marginBottom:`10px`}} href={podcastMdx.frontmatter.appleLink}><img  style={{backgroundColor:`#868686`, padding:`7px 10px`, borderRadius:`3px`, height:`40px`}} src={require("../svg/applePodcast.svg")} /></a>}
+                    {podcastMdx.frontmatter.googleLink && <a style={{marginRight:`10px`, marginBottom:`10px`}} href={podcastMdx.frontmatter.googleLink}><img  style={{backgroundColor:`#868686`, padding:`7px 10px`, borderRadius:`3px`, height:`40px`}} src={require("../svg/googlePodcast.svg")} /></a>}
+                    {podcastMdx.frontmatter.spotifyLink && <a style={{marginRight:`10px`, marginBottom:`10px`}} href={podcastMdx.frontmatter.spotifyLink}><img  style={{backgroundColor:`#868686`, padding:`7px 10px`, borderRadius:`3px`, height:`40px`}} src={require("../svg/spotifyPodcast.png")} /></a>}
+                  </div>
 
                   <article className="article space-y-8">
                     {/* Frontmatter and data from the RSS feed can be added as below */}
@@ -79,6 +89,10 @@ export const query = graphql`
     frontmatter {
       title
       date
+      link
+      appleLink
+      spotifyLink
+      googleLink
     }
     body
   }

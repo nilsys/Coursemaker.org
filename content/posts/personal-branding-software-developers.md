@@ -27,7 +27,7 @@ are basically:
 > Hard Skills (coding) x Soft Skills x Personal Brand = Your Career Prospects
 
 
->![Personal Branding Equation](../assets/personal_branding/multiplier.png)
+>![Personal Branding Equation](/assets/personal_branding/multiplier.png)
 
 Importantly, many parts of personal branding will also improve your soft skills (presenting & public speaking,
 communicating, pitching, explaining).
@@ -76,7 +76,7 @@ It helps to think of yourself as a product. If you claim to be able to do everyt
 recruiters will assume
 you can do nothing. They also won't know how to search for you or what to recommend you for.
 
-![Personal Branding Venn Diagram](../assets/personal_branding/personal_branding_venn.png)
+![Personal Branding Venn Diagram](/assets/personal_branding/personal_branding_venn.png)
 
 ---
 
@@ -97,7 +97,7 @@ or readership. It's helpful to think of a rough hierarchy of difficulty (this wi
 circumstances) with your personal branding and marketing efforts. This diagram
 gives an indication of these levels:
 
-![Personal Branding Difficulty](../assets/personal_branding/difficulty_levels.png)
+![Personal Branding Difficulty](/assets/personal_branding/difficulty_levels.png)
 
 #### 1. Your Own Blog
 

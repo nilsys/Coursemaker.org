@@ -26,11 +26,15 @@ export default ({ pageContext, location, data }) => {
                 {podcasts.map(podcast => {
                     const slug = slugify(podcast.title) // Convert title to url-safe slug (RSS feed doesn't provide a slug)
                     return (
-                        <Link to={`/podcast/${slug}`} className="block px-10 py-8 bg-white rounded-lg shadow hover:shadow-lg transition transition-all duration-300">
-                            <h2 className="text-xl lg:text-2xl">{podcast.title}</h2>
-                            <p className="text-sm text-gray-500">{podcast.pubDate}</p>
-                            {/* <img style={{maxHeight:`200px`}} src={podcast.itunes.image.attrs.href} /> */}
-                            <p className="mt-4 text-gray-700 lg:w-8/12">{podcast.itunes.summary}</p>
+                        <Link to={`/podcast/${slug}`} className="flex flex-wrap md:flex-no-wrap px-10 py-8 bg-white rounded-lg shadow hover:shadow-lg transition transition-all duration-300">
+                            <div className="block flex-auto">
+                              <h2 className="text-xl lg:text-2xl">{podcast.title}</h2>
+                              <p className="text-sm text-gray-500">{podcast.pubDate}</p>
+                              {/* <img style={{maxHeight:`200px`}} src={podcast.itunes.image.attrs.href} /> */}
+                              <p className="mt-4 text-gray-700 lg:w-10/12">{podcast.itunes.summary}</p>
+                              </div>
+                              {/* Change maxHeight to tweak the image size, also note that all guest images need to be the same format (.jpg, can be changed below) */}
+                            <img style={{maxHeight:`200px`,marginTop:`10px`,alignSelf:`flex-start`}} src={require(`../images/podcast-guests/${podcast.itunes.episode}.jpg`)} />
                         </Link>
                         )
                 })}
