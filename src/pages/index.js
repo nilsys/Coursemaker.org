@@ -23,7 +23,7 @@ export default ({ pageContext, location }) => {
 						<div className="mx-auto xl:w-4/12 lg:w-6/12">
 							<h2 className="mb-2 md:mb-0">Make Online Courses</h2>
 							<h4 className="mb-4 text-xl text-gray-600 lg:text-2xl">Easy. Elegant. Affordable.</h4>
-							<p>We take care of all the hassle so you can focus on running your online course business.</p>
+							<p>The self-hosted platform for technical course authors.</p>
 							<div className="mt-10 button-wrapper text-wrapper">
 								<Link to="/coming-soon/" className="mb-2 button">Sign up for the Beta</Link>
 							</div>
@@ -41,7 +41,7 @@ export default ({ pageContext, location }) => {
 			<section id="product" className="py-16 lg:py-20">
 				<div className="container">
 					<h2 className="mb-12 md:text-center">Everything you need in one place</h2>
-					<img className="block w-full mx-auto lg:w-9/12" src={`../../home-2.png`} alt="Home 2" />
+					<img className="block w-full mx-auto lg:w-9/12" src={`../../home-2-new.png`} alt="Home 2" />
 				</div>
 			</section>
 
@@ -174,7 +174,15 @@ export default ({ pageContext, location }) => {
 			</section>
 
 			<Pricing />
-			<div className="mx-auto mt-auto text-center">For High-Volume custom requirements send us an email and we will come up with a detailed quote within 24 hours.</div>
+
+			<div className="pb-16 bg-indigo-100">
+				<div className="container">
+					<p class="text-center md:w-1/2 mx-auto">
+						For High-Volume custom requirements send us an email and we will come up with a detailed quote within 24 hours.
+					</p>
+				</div>
+			</div>
+
 		</Layout>
 	);
 };

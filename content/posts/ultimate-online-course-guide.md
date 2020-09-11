@@ -609,6 +609,3 @@ help you sell online courses in the following areas:
 Hopefully, this guide has given you a good idea about what creating a course entails, and the key things you need to
 consider to build an online course business. 
 If you have questions, feel free to email me directly (chris@coursemaker.org). I reply to all emails.
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

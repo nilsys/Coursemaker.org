@@ -135,6 +135,3 @@ they will be happy to pay for your online course once you decide you are ready.
 For a detailed breakdown on how to create an online course [checkout our complete guide](/blog/create-sell-online-courses-ultimate-guide/)
 
 ---
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

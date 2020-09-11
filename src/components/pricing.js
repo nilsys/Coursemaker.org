@@ -17,13 +17,13 @@ const Pricing = () => {
 					title: 'Unlimited Videos'
 				},
 				{
-					title: 'No Transaction Fees'
+					title: 'Unlimited Students'
+				},
+				{
+					title: '$5 fee per course sale'
 				},
 				{
 					title: '1 course'
-				},
-				{
-					title: 'Up to 10 students'
 				},
 				{
 					title: '1 Admin User'
@@ -55,10 +55,10 @@ const Pricing = () => {
 					title: 'Up to 5 courses'
 				},
 				{
-					title: 'Up to 100 monthly active students with no fees, then 5% transaction fee'
+					title: '$3 fee per course sale ($1 for membership renewals)'
 				},
 				{
-					title: '3 Admin Users'
+					title: '2 Admin Users'
 				},
 				{
 					title: '3 X 1-on-1 Course Business Coaching Session'
@@ -76,8 +76,8 @@ const Pricing = () => {
 				},
 				{
 					title: 'Free migrations',
-					info: false,
-					detail: 'Some long description about this feature'
+					info: true,
+					detail: 'We will do the work to migrate the course for you if you like'
 				},
 				{
 					title: 'Coupons'
@@ -92,13 +92,13 @@ const Pricing = () => {
 					title: 'Up to 20 courses'
 				},
 				{
-					title: 'Up to 500 monthly active students with no fees, then 2% transaction fee'
+					title: '$1 fee per course sale ($0.50 for membership renewals)'
 				},
 				{
 					title: 'Up to 10 Admin Users'
 				},
 				{
-					title: 'Monthly 1-on-1 Course Business Coaching Session'
+					title: 'Monthly 1-on-1 Course Business Coaching Sessions'
 				},
 				{
 					title: 'Priority suppport',

@@ -409,6 +409,3 @@ Hopefully, this post has helped clarify the strange world of SaaS billing and pa
 All the platforms and tools referenced in this post can now be found [awesome-saas-payments GitHub repo](https://github.com/CourseMaker/awesome-saas-payments).
 
 ---
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

@@ -14,6 +14,10 @@
 	@apply inline-block px-5 py-2 text-white bg-green-500 rounded-lg shadow cursor-pointer transition duration-300 ease-in-out;
 }
 
+.fname-field-blog {
+	padding-bottom: 1%;
+}
+
 .button:hover {
 	@apply bg-green-700 border-green-700;
 }

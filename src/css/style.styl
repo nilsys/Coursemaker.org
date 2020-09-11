@@ -1,3 +1,8 @@
+// dot pattern
+dot(bg)
+	background -webkit-radial-gradient(bg 15%, transparent 15%), -webkit-radial-gradient(bg 15%, transparent 15%), transparent !important
+	background-size 10px 10px !important
+
 .container
 	padding 0 30px
 
@@ -26,7 +31,7 @@ footer ahover
 .article.article *
 	font-size unset
 	margin-bottom unset
-	line-height unset
+	line-height 1.85
 
 article > h1 > a,
 article > h2 > a,
@@ -63,14 +68,22 @@ article > h6 > a
 	overflow scroll
 
 .popup-wrapper
-	opacity 0
 	transition .3s all ease
+	opacity 0
 	pointer-events none
 
 .popup-wrapper .popup
 	opacity 0
 	transform translateY is-active(30px)
 	transition .3s all ease
+
+	.img-wrapper
+		.wrapper-bg
+			border-top-left-radius 100%
+			border-top-right-radius 100%
+			height 70%
+			transform-origin top
+			transform scale(1.2)
 
 .popup-wrapper.is-active
 	opacity 1
@@ -175,3 +188,23 @@ toggleHeight = 32px
 			height 26px
 			border-radius 50%
 			background white
+
+// featured post
+#featured-post .img-wrapper
+	position relative
+	&:before
+		content ''
+		position absolute
+		left 50%
+		top -30%
+		bottom -30%
+		width 70%
+		dot(#48bb78)
+
+	@media(max-width: 768px)
+		&:before
+			top 50%
+			left -30%
+			width unset
+			right -30%
+			bottom -50%

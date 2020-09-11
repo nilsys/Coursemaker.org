@@ -229,6 +229,3 @@ Here is a rough guide to making the decision:
 Good luck with creating your online course website!
 
 ---
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

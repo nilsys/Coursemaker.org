@@ -371,5 +371,3 @@ Hopefully, this guide has given you a good idea about how to find the right plat
 
 ---
 
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

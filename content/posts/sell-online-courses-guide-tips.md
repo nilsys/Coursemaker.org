@@ -351,6 +351,3 @@ to build an online course that will add value to people's lives - **help them fi
 Good luck and always be closing ;)
 
 ---
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*

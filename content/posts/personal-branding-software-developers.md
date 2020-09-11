@@ -225,6 +225,3 @@ talk at PyData London.
 - [Where to host your online course](/blog/online-marketplace-vs-self-hosting-courses/)
 
 ---
-
-*If you found this guide useful, please consider [signing up to our mailing list](/), as we produce quality content 
-on a regular basis*
